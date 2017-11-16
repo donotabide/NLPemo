@@ -25,10 +25,10 @@ Potential solutions taken from the comments section of the facebook posts. We al
 
 
 ## Data Sources:
-. “Secrets” pages on Twitter and Facebook
-..  Entries as paragraph problem
-..  Use comments as possible solutions
-. Medical Subject Headings thesaurus (MeSH) to promote sentiment analysis of whether the entry is emotional or not 
+*“Secrets” pages on Twitter and Facebook
+	* Entries as paragraph problem
+	* Use comments as possible solutions
+* Medical Subject Headings thesaurus (MeSH) to promote sentiment analysis of whether the entry is emotional or not 
 
 ## Input and Output Data Format
 ### Input
@@ -42,51 +42,51 @@ E.g “Take a deep breath. You’ll be fine”
 SenPy, NLTK using Sentiment Analysis and Information retrieval, give weights to pre-defined emotions and solutions. 
 
 ### Alternative 1: The Algorithm (Input as problem paragraph)
-Summarization of paragraph
-Detect “key words”
-Match “key words” with the emotional word bank 
-Assign emotional score based on 4 categories of emotional words 
-Based on the score match 2 - 5 closest solutions 
-Provide one of the possible best solution to the users
+* Summarization of paragraph
+* Detect “key words”
+* Match “key words” with the emotional word bank 
+* Assign emotional score based on 4 categories of emotional words 
+* Based on the score match 2 - 5 closest solutions 
+* Provide one of the possible best solution to the users
 
 ### Alternative 2: as Queries (input)
-Summarize problem paragraph
-Sentiment analysis:  is it an emotional entry or not?
-Make it into a query vector
-Run search in database to see correlation in database
-Number of documents with the vector words
-Run vector through database to see which solution paragraph has best match
-Return best match
+* Summarize problem paragraph
+* Sentiment analysis:  is it an emotional entry or not?
+* Make it into a query vector
+* Run search in database to see correlation in database
+* Number of documents with the vector words
+* Run vector through database to see which solution paragraph has best match
+* Return best match
 
 
 ### Responsibilities
 
 #### Arjun Madgavkar:
-Data scraping & formatting
-Assigning weights based on input and emotional bank
-iPhone application (designs and development, if we want to create one)
+* Data scraping & formatting
+* Assigning weights based on input and emotional bank
+* iPhone application (designs and development, if we want to create one)
 #### Han Zhang:
-Building emotional words bank 
-Matching input to an existing bank of solutions vectors
+* Building emotional words bank 
+* Matching input to an existing bank of solutions vectors
 #### Jaeduk Choi: 
-assigning weights based on input and emotional bank
-building emotional words bank
+* assigning weights based on input and emotional bank
+* building emotional words bank
 #### Nicholas Ang:
-Data scraping & formatting
-Building solutions word bank and assigning attributes to solutions
+* Data scraping & formatting
+* Building solutions word bank and assigning attributes to solutions
 #### Ricardo Nunes:
-Data scraping and formating 
-Emotional words bank
-Data processing using vectors
+* Data scraping and formating 
+* Emotional words bank
+* Data processing using vectors
 	
 
 ## Possible Paid Algorithms
-https://algorithmia.com/algorithms/nlp/Summarizer Summarizes text  
-https://algorithmia.com/algorithms/nlp/SocialSentimentAnalysis Assign sentiment analysis 
+* https://algorithmia.com/algorithms/nlp/Summarizer Summarizes text  
+* https://algorithmia.com/algorithms/nlp/SocialSentimentAnalysis Assign sentiment analysis 
 
 ### URL sources: 
-https://www.facebook.com/NYUSecrets/
-https://www.facebook.com/BruinSecrets/
-https://www.facebook.com/BerkeleySecrets/
-https://meshb.nlm.nih.gov/record/ui?ui=D004644 
+* https://www.facebook.com/NYUSecrets/
+* https://www.facebook.com/BruinSecrets/
+* https://www.facebook.com/BerkeleySecrets/
+* https://meshb.nlm.nih.gov/record/ui?ui=D004644 
 
