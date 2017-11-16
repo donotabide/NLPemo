@@ -12,22 +12,23 @@ afraid \t fear \t sadness \n
 ### Emotional Tag’s
 1) Happiness 2) Sadness 3) Fear/Surprise 4) Anger/Disgust
 ### Gathering Data
-Entries from Students about their current “status” on NYU Secrets and other colleges Secret pages - A Facebook page that posts thoughts from anonymous university students
-These entries are used to create our emotional word bank. Key words from each entry are manually selected and emotional tags assigned
+Entries from Students about their current “status” on NYU Secrets and other colleges Secret pages - A Facebook page that posts thoughts from anonymous university students.
+These entries are used to create our emotional word bank. Key words from each entry are manually selected and emotional tags assigned.
 Words are selected manually due to the use of “slang” in common speech e.g “Going nuts”
-Other potential data sources
+
+### Other potential data sources
 Extract - Twitter API and other web scraping API
-Potential Solutions
+### Potential Solutions
 Text.txt document containing a list of potential solutions each entry in a new line. Each potential solution has emotional weights attached.
 E.g Slow down your breathing and read a book \t happiness 0 sadness 30 fear/surprise 70 anger/disgust 0
 Potential solutions taken from the comments section of the facebook posts. We also aim to create our own potential solutions.
 
 
 ## Data Sources:
-“Secrets” pages on Twitter and Facebook
-Entries as paragraph problem
-Comments as possible solutions
-Medical Subject Headings thesaurus (MeSH) to promote sentiment analysis of whether the entry is emotional or not 
+. “Secrets” pages on Twitter and Facebook
+..  Entries as paragraph problem
+..  Use comments as possible solutions
+. Medical Subject Headings thesaurus (MeSH) to promote sentiment analysis of whether the entry is emotional or not 
 
 ## Input and Output Data Format
 ### Input
