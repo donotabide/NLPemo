@@ -9,9 +9,9 @@ Using past emotional entries the program suggests a potential solution for a use
 Emotional Word Bank
 Text.txt document containing a list of words and their associated emotions each entry in a new line
 afraid \t fear \t sadness \n
-Emotional Tag’s
+### Emotional Tag’s
 1) Happiness 2) Sadness 3) Fear/Surprise 4) Anger/Disgust
-Gathering Data
+### Gathering Data
 Entries from Students about their current “status” on NYU Secrets and other colleges Secret pages - A Facebook page that posts thoughts from anonymous university students
 These entries are used to create our emotional word bank. Key words from each entry are manually selected and emotional tags assigned
 Words are selected manually due to the use of “slang” in common speech e.g “Going nuts”
