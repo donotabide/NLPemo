@@ -14,6 +14,7 @@ negitiveFile = open('negative.txt') #Negative words file
 
 outputCheck = open('outputCheck.txt','w') #output file
 finalAnswersDoc = open('finalAnswers.txt', 'w') #Finals Answers
+answerCheckDoc = open('answerCheck.txt', 'w') #Answer check
 
 closed_class_stop_words = ['a','the','an','and','or','but','about','above','after','along','amid','among',\
                            'as','at','by','for','from','in','into','like','minus','near','of','off','on',\
@@ -120,6 +121,7 @@ while True:
         listOfAbs = []
         abstTokens = []
         for line in abst1.read().split('\n'):
+            #print line
             if line != '':
                 originalListOfSolutions.append(line)
                 text = word_tokenize(line)
@@ -281,7 +283,16 @@ while True:
         outputCheck.write(str(stringOutput))
 
         #WriteOut the Top 5 solutions answerCheckFile.txt
-            #TODO
+        outputStringForAnswerCheck = ''
+        for solSet in finalSolutions:
+            issuetxt = ''
+            soltuionstxt = ''
+            for issue, solutions in solSet.iteritems():
+                issuetxt = str(issue)
+                for sol in solutions:
+                    soltuionstxt = soltuionstxt + '[S]\n' + str(sol) + '\n'
+            outputStringForAnswerCheck += '[P]\n' + issuetxt + '\n' + soltuionstxt + '\n\n'
+        answerCheckDoc.write(outputStringForAnswerCheck)
 
         #Handle Sentiments
         finalAnswers = []
@@ -293,12 +304,15 @@ while True:
             negitiveWords.append(line)
         for solSet in finalSolutionsWithIndex:
             #Each problem
+            #print 'FOR'
             for issue, solutions in solSet.iteritems():
+                #print issue
+                #print solutions
                 #handle the issue and get the set weights
                 issuePosCount = 0.0
                 issueNegCount = 0.0
                 totalCount = 0.0
-                issueWeight = {'pos':0.0,'neg':0.0}
+                issueWeight = {'Positive':0.0,'Negative':0.0}
                 theIssue = listOfQuery[issue]
                 noOfWordsInIssue = len(theIssue)
                 for word in theIssue:
@@ -308,8 +322,8 @@ while True:
                         issueNegCount += 1.0
                 if issueNegCount != 0.0 or issuePosCount != 0.0:
                     totalCount = issuePosCount + issueNegCount
-                    issueWeight['pos'] = issuePosCount/noOfWordsInIssue
-                    issueWeight['neg'] = issueNegCount/noOfWordsInIssue
+                    issueWeight['Positive'] = issuePosCount/noOfWordsInIssue
+                    issueWeight['Negative'] = issueNegCount/noOfWordsInIssue
                     negWeightIssue = issueNegCount/noOfWordsInIssue
                 #print issueWeight
                 #print theIssue
@@ -320,6 +334,7 @@ while True:
                 negCount = 0.0
                 solWeight = 0.0
                 scoreArray = []
+                solWeightHash = {'Positive':0.0,'Negative':0.0}
                 for sol in solutions:
                     #Check if it has a solution if not. No solution
                     if sol != -1:                       
@@ -328,35 +343,74 @@ while True:
                         for word in theSolution:
                             if word in positiveWords:
                                 posCount += 1.0
-                        if posCount != 0.0 and totalCount != 0.0:
-                            solWeight = posCount/totalCount #divide by itself or the issue count?
+                            elif word in negitiveWords:
+                                negCount += 1.0
+                        if posCount != 0.0:
+                            solWeight = posCount/noOfWordsInIssue #divide by itself or the issue count?
                             scoreArray.append(solWeight)
+                            solWeightHash['Positive'] = solWeight
+                            solWeightHash['Negative'] = 1.0 - solWeight
                         else:
                             scoreArray.append(-101)
                     else:
                         scoreArray.append(-100)
+                #print scoreArray
                 #Get closest score to the neg issue weight
                 if any(i >= 0 for i in scoreArray):
                     score = min(scoreArray, key=lambda x:abs(x-negWeightIssue))
                     indexOfClosestScore = scoreArray.index(score)
                     #Add the final answers to final array
-                    finalAnswers.append({'problem':originalListOfProblems[issue],'solution':originalListOfSolutions[solutions[indexOfClosestScore]],'sent':issueWeight})
+                    finalAnswers.append({'[PROBLEM]':originalListOfProblems[issue],'[SOLUTION]':originalListOfSolutions[solutions[indexOfClosestScore]],'[SENTIMENT:P]':issueWeight,'[SENTIMENT:S]':solWeightHash})
                 else:
                     #There is no sentiment score or no solution.
                     if all(k == -100 for k in scoreArray):
                         #no solution
-                        finalAnswers.append({'problem':originalListOfProblems[issue],'solution':'We are sorry. Kindly seek help somewhere else!','sent':issueWeight})
+                        finalAnswers.append({'[PROBLEM]':originalListOfProblems[issue],'[SOLUTION]':'We are sorry. Kindly seek help somewhere else!','[SENTIMENT:P]':issueWeight,'[SENTIMENT:S]':solWeightHash})
                     elif any(k == -101 for k in scoreArray):
                         #no sentiment score - So we take the highest COS score
-                        finalAnswers.append({'problem':originalListOfProblems[issue],'solution':originalListOfSolutions[solutions[0]],'sent':issueWeight})
+                        finalAnswers.append({'[PROBLEM]':originalListOfProblems[issue],'[SOLUTION]':originalListOfSolutions[solutions[0]],'[SENTIMENT:P]':issueWeight,'[SENTIMENT:S]':solWeightHash})
                 scoreArray=[]
-                #Output the finals answers to txt
-                finalAnswersDoc.write(str(finalAnswers))
-            #End handle sentiments
-            
-            
             #Break for each problem
             #break
+            
+        #Output the finals answers to txt
+        finalAnswerOutputString = ''
+        for has in finalAnswers:
+            problem = ''
+            sol = ''
+            sentp = ''
+            sents = ''
+            for key, value in has.iteritems():
+                if str(key) == '[PROBLEM]':
+                    problem = str(value)
+                elif str(key) == '[SOLUTION]':
+                    sol = str(value)
+                elif str(key) == '[SENTIMENT:P]':
+                    sentp = str(value)
+                elif str(key) == '[SENTIMENT:S]':
+                    sents = str(value)
+            finalAnswerOutputString = finalAnswerOutputString + '[PROBLEM]' + ':\n' + problem + '\n' + '[SENTIMENT:P]' + ':\n' + sentp + '\n' + '[SOLUTION]' + ':\n' + sol + '\n' +'[SENTIMENT:S]' + ':\n' + sents + '\n\n\n'
+        finalAnswersDoc.write(finalAnswerOutputString)
+        #End handle sentiments
+
+        #Print Users Output
+        usersProblem = finalAnswers[len(finalAnswers)-1]
+        problem = ''
+        sol = ''
+        sentp = ''
+        sents = ''
+        for key, value in usersProblem.iteritems():
+            if str(key) == '[PROBLEM]':
+                problem = str(value)
+            elif str(key) == '[SOLUTION]':
+                sol = str(value)
+            elif str(key) == '[SENTIMENT:P]':
+                sentp = str(value)
+            elif str(key) == '[SENTIMENT:S]':
+                sents = str(value)
+        userOutputString = '\n' + '[PROBLEM]' + ':\n' + problem + '\n' + '[SENTIMENT:P]' + ':\n' + sentp + '\n' + '[SOLUTION]' + ':\n' + sol + '\n' +'[SENTIMENT:S]' + ':\n' + sents + '\n'
+        print userOutputString
+        
         #while loop break
         break
     elif userinput == 'update': #User decided to enter a new problem soltuion pair to the program
@@ -374,3 +428,5 @@ abst1.close()
 positiveFile.close()
 negitiveFile.close()
 outputCheck.close()
+finalAnswersDoc.close()
+answerCheckDoc.close()
