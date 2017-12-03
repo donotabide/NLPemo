@@ -1838,3 +1838,13 @@ It is very brave of you to share the bad things happened to you and expressed yo
 {'Positive': 1.3636363636363635, 'Negative': -0.36363636363636354}
 
 
+[PROBLEM]:
+i have depression. My depression is very bad. What do i do? i feel so sad all the time. I need a cookie.
+[SENTIMENT:P]:
+{'Positive': 0.0, 'Negative': 0.26666666666666666}
+[SOLUTION]:
+It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
+[SENTIMENT:S]:
+{'Positive': 1.1333333333333333, 'Negative': -0.1333333333333333}
+
+

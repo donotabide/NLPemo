@@ -273,8 +273,8 @@ while True:
                         solutionIndex = -1
                     solutions.append(solution)
                     solutionsWithIndex.append(solutionIndex)
-            solutions = solutions[:5]
-            solutionsWithIndex = solutionsWithIndex[:5]
+            solutions = solutions[:3]
+            solutionsWithIndex = solutionsWithIndex[:3]
             finalSolutionsWithIndex.append({queryNumber:solutionsWithIndex})
             finalSolutions.append({issue:solutions})
             queryNumber += 1
@@ -282,7 +282,7 @@ while True:
         #End of query for loop for score
         outputCheck.write(str(stringOutput))
 
-        #WriteOut the Top 5 solutions answerCheckFile.txt
+        #WriteOut the Top 3 solutions answerCheckFile.txt
         outputStringForAnswerCheck = ''
         for solSet in finalSolutions:
             issuetxt = ''
