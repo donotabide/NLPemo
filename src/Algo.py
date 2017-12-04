@@ -5,12 +5,14 @@ from nltk import word_tokenize
 from collections import Counter
 import math
 
-qry1 = open('entries.txt', 'a') #Problem file
-abst1 = open('response.txt') #Soltions file
+import codecs
+
+qry1 = codecs.open('entries.txt', 'a') #Problem file
+abst1 = codecs.open('response.txt') #Soltions file
 
 #Sentiments
-positiveFile = open('positive.txt') #Positive words file
-negitiveFile = open('negative.txt') #Negative words file
+positiveFile = codecs.open('positive.txt') #Positive words file
+negitiveFile = codecs.open('negative.txt') #Negative words file
 
 outputCheck = open('outputCheck.txt','w') #output file
 finalAnswersDoc = open('finalAnswers.txt', 'w') #Finals Answers
@@ -60,6 +62,7 @@ while True:
         tokens = []
         for line in qry1.read().split('\n'):
             if line != '':
+                line = line.decode('utf-8').strip()
                 originalListOfProblems.append(line)
                 text = word_tokenize(line)
                 tagged = nltk.pos_tag(text)
@@ -123,6 +126,7 @@ while True:
         for line in abst1.read().split('\n'):
             #print line
             if line != '':
+                line = line.decode('utf-8').strip()
                 originalListOfSolutions.append(line)
                 text = word_tokenize(line)
                 tagged = nltk.pos_tag(text)
@@ -288,8 +292,10 @@ while True:
             issuetxt = ''
             soltuionstxt = ''
             for issue, solutions in solSet.iteritems():
+                issue = issue.encode('utf-8').strip()
                 issuetxt = str(issue)
                 for sol in solutions:
+                    sol = sol.encode('utf-8').strip()
                     soltuionstxt = soltuionstxt + '[S]\n' + str(sol) + '\n'
             outputStringForAnswerCheck += '[P]\n' + issuetxt + '\n' + soltuionstxt + '\n\n'
         answerCheckDoc.write(outputStringForAnswerCheck)
@@ -298,9 +304,11 @@ while True:
         finalAnswers = []
         positiveWords = []
         for line in positiveFile.read().split('\n'):
+            line = line.decode('utf-8').strip()
             positiveWords.append(line)
         negitiveWords = []
         for line in negitiveFile.read().split('\n'):
+            line = line.decode('utf-8').strip()
             negitiveWords.append(line)
         for solSet in finalSolutionsWithIndex:
             #Each problem
@@ -382,8 +390,10 @@ while True:
             sents = ''
             for key, value in has.iteritems():
                 if str(key) == '[PROBLEM]':
+                    value = value.encode('utf-8').strip()
                     problem = str(value)
                 elif str(key) == '[SOLUTION]':
+                    value = value.encode('utf-8').strip()
                     sol = str(value)
                 elif str(key) == '[SENTIMENT:P]':
                     sentp = str(value)
@@ -401,8 +411,10 @@ while True:
         sents = ''
         for key, value in usersProblem.iteritems():
             if str(key) == '[PROBLEM]':
+                value = value.encode('utf-8').strip()
                 problem = str(value)
             elif str(key) == '[SOLUTION]':
+                value = value.encode('utf-8').strip()
                 sol = str(value)
             elif str(key) == '[SENTIMENT:P]':
                 sentp = str(value)
