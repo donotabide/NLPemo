@@ -5,7 +5,7 @@ I wish I could go back in time and protect myself from the pain, trauma, and abu
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.3624161073825503, 'Negative': 0.6375838926174497}
+{'Positive': 0.24161073825503357, 'Negative': 0.7583892617449665}
 
 
 [PROBLEM]:
@@ -15,7 +15,7 @@ Hello does anyone here suffer from depersonalization/ derealisation? Basically i
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.34532374100719426, 'Negative': 0.6546762589928057}
+{'Positive': 0.2014388489208633, 'Negative': 0.7985611510791367}
 
 
 [PROBLEM]:
@@ -25,7 +25,7 @@ I love UCLA, I really do, But sometimes I feel like the heavy workload and the s
 [SOLUTION]:
 Whenever I feel sad or super overwhelmed with life, I go to my professor's office hours and somehow he always makes me feel better. This is why I feel like North Campus professors are better than South Campus ones, because they care about both students' learning and wellbeing. Friends are a great support system too, but sometimes if my friend is having a rough week too, I dont want to unburden myself on her. Therefore, I'm so glad to have found a support system in my professors at UCLA. They really make me want to learn and be a better person too.  #uclasecretsprofessors #uclasecretssupport
 [SENTIMENT:S]:
-{'Positive': 0.8157894736842105, 'Negative': 0.1842105263157895}
+{'Positive': 0.6052631578947368, 'Negative': 0.39473684210526316}
 
 
 [PROBLEM]:
@@ -35,7 +35,7 @@ I wonder everyday if I am worth living. I knew I was a piece of shit. I have shi
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.46987951807228917, 'Negative': 0.5301204819277108}
+{'Positive': 0.26506024096385544, 'Negative': 0.7349397590361446}
 
 
 [PROBLEM]:
@@ -45,7 +45,7 @@ To my fellow bruins suffering with depression and mental illnesses. Things will 
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 0.15789473684210525, 'Negative': 0.8421052631578947}
+{'Positive': 0.10964912280701754, 'Negative': 0.8903508771929824}
 
 
 [PROBLEM]:
@@ -53,9 +53,9 @@ I totally feel undocumented immigrants because I was badly treated once with the
 [SENTIMENT:P]:
 {'Positive': 0.0, 'Negative': 0.1875}
 [SOLUTION]:
-AAMC provides financial aid thru their Finacial Assistance Program that gives you reduced price in MCAT fees and free year subscription for MSAR (provides full admission stats for med schools). For your grade, look into post bacc/SMP/master programs!! Each program have their pros and cons, but you pretty much need to prove that you can handle a full academic load AND do well. I'm recent physiology major grad who graduated and currently enrolled at CSULA's academic enhancer post bacc. I'm doing really well and will most likely raise my gpa by 0.2!!! It's ok to take time and get it right, even if you already graduated. Good luck to you and anyone else
+'Things will get better'. Let me tell you this is the biggest lie in the history of lies. People tell me this all the time--when I'm having suicidal thoughts, after a suicide attempt, and even when I'm strapped to a hospital bed. They've told me this after they learned how I was destroyed as a child by other people. They are wrong. Things are the same.
 [SENTIMENT:S]:
-{'Positive': 0.22916666666666666, 'Negative': 0.7708333333333334}
+{'Positive': 0.08333333333333333, 'Negative': 0.9166666666666666}
 
 
 [PROBLEM]:
@@ -65,7 +65,7 @@ I was dismissed from UCLA recently, and I feel like a part of me has died inside
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 0.78125, 'Negative': 0.21875}
+{'Positive': 0.53125, 'Negative': 0.46875}
 
 
 [PROBLEM]:
@@ -75,7 +75,7 @@ To the De Neve worker who has every right to be kinda pissed rn -- I swear I did
 [SOLUTION]:
 im so sorry you were let down you can trust this forum though i promise please talk about your feelings here it is not good to bottle them up lots of love Lu xxxx
 [SENTIMENT:S]:
-{'Positive': 0.40476190476190477, 'Negative': 0.5952380952380952}
+{'Positive': 0.2619047619047619, 'Negative': 0.7380952380952381}
 
 
 [PROBLEM]:
@@ -83,9 +83,9 @@ I am suicidal since I got major depression and anhedonia from LSD/MDMA combo 2 m
 [SENTIMENT:P]:
 {'Positive': 0.04195804195804196, 'Negative': 0.11188811188811189}
 [SOLUTION]:
-While you have no reason to listen to this, you don't know me and you seem to be very set in your decision, please don't kill yourself. Depression and anhedonia are terrible, and living with them is horrible but please give it some more time. This is a brain injury, not unlike a concussion or a stroke and it takes time to heal. The brain is incredibly slow at healing itself. It often takes months and several different medications before you find the right one to mitigate the symptoms for you. Please, just don't give up so soon. While memory loss is better than suicide, the possibility of being able to feel happiness is even better than that. Just a little more time OP, for your friends, your family, but most importantly for yourself. You can get through this. Let the people around you support you and if you need more than that, we can change the first sentence I said and you can message me. I'm no one special, just willing to be a friend if you need another.
+Do you do anything at all to manage your depression other than hoping group therapy, therapy, and meds will do something for you? If you're too tired to do anything else and you're feeling suicidal, it's time to check yourself into a hospital. I recommend Ronald Reagan if you have the UCLA insurance. Their service is great and the staff is lovely. You deserve to be alive. You deserve to see a smile one day in your reflection and feel it mirrors the joy you will one day have again.
 [SENTIMENT:S]:
-{'Positive': 0.13986013986013987, 'Negative': 0.8601398601398601}
+{'Positive': 0.06293706293706294, 'Negative': 0.9370629370629371}
 
 
 [PROBLEM]:
@@ -95,7 +95,7 @@ Does anyone else ever feel like you have a bunch of acquaintances, but nobody re
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 0.18660287081339713, 'Negative': 0.8133971291866029}
+{'Positive': 0.10047846889952153, 'Negative': 0.8995215311004785}
 
 
 [PROBLEM]:
@@ -105,7 +105,7 @@ I am an Econ major and I hate it. My parents pretty much forced me into this maj
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 0.5454545454545454, 'Negative': 0.4545454545454546}
+{'Positive': 0.45454545454545453, 'Negative': 0.5454545454545454}
 
 
 [PROBLEM]:
@@ -115,7 +115,7 @@ I am a former bruin, Asian female, who is currently going to law school in a sou
 [SOLUTION]:
 Acquiring true friends takes a lot of work. Most people don't take the time to filter out those who really don't fit their life. So, I would recommend taking a close look at your acquaintences and figure out who you think would add value to your life. Then, carefully but frequently, invite them personally (not an email or text) to get together with you for a meal or a drink. Then, when you're together, focus exclusively on that person. Ask about their interests, their likes and dislikes etc. If they ask about you, answer simply without long explanations. They will react very positively to that experience and you'll be well on your way to creating a very special bond with them. If you see a guy to whom you are attracted, just be very nice to him and he'll soon get the idea that you're interested. Good luck!
 [SENTIMENT:S]:
-{'Positive': 0.1951219512195122, 'Negative': 0.8048780487804879}
+{'Positive': 0.09268292682926829, 'Negative': 0.9073170731707317}
 
 
 [PROBLEM]:
@@ -125,7 +125,7 @@ So I got introduced to this girl while I was studying and she is just so adorabl
 [SOLUTION]:
 I would say that it is entirely normal to have 'crushes' it's just just important to be aware that we cannot truly have any more than that as someone looking from a distance. Love can only really come from physical interaction and really knowing a person. Sure, we could obsess over them, but that isn't real because we don't actually know the person; they could be vile in reality, and if we base how we feel about them from the projections they make on social media or in the news, then we only get a filtered version of them, one that is unlikely to reveal any of the bad points about them. So, this would probably fall under 'idealisation' in that you see an ideal person, partly because that is all you're allowed to see and partly because that has become what you want to see. I am guessing that you follow them on social media and the like, so a start would be to break the habit of checking in on them, replacing this behaviour with something else more beneficial. Remind yourself that you don't know that person and that it would be far healthier to focus on 'real world' women and working towards meeting and getting to know someone in that way
 [SENTIMENT:S]:
-{'Positive': 0.4782608695652174, 'Negative': 0.5217391304347826}
+{'Positive': 0.34782608695652173, 'Negative': 0.6521739130434783}
 
 
 [PROBLEM]:
@@ -135,7 +135,7 @@ There was this cute boy with glasses sitting across from me in the Kerckhoff ups
 [SOLUTION]:
 this aint about me but imma act like it's about me to make my night better cuz I wear glasses and am a boy and also was in Kerckhoff at some point in this month.
 [SENTIMENT:S]:
-{'Positive': 1.5925925925925926, 'Negative': -0.5925925925925926}
+{'Positive': 0.6296296296296297, 'Negative': 0.37037037037037035}
 
 
 [PROBLEM]:
@@ -145,7 +145,7 @@ To the guy who had the crush on the girl for 4 years but graduated: text her, as
 [SOLUTION]:
 Acquiring true friends takes a lot of work. Most people don't take the time to filter out those who really don't fit their life. So, I would recommend taking a close look at your acquaintences and figure out who you think would add value to your life. Then, carefully but frequently, invite them personally (not an email or text) to get together with you for a meal or a drink. Then, when you're together, focus exclusively on that person. Ask about their interests, their likes and dislikes etc. If they ask about you, answer simply without long explanations. They will react very positively to that experience and you'll be well on your way to creating a very special bond with them. If you see a guy to whom you are attracted, just be very nice to him and he'll soon get the idea that you're interested. Good luck!
 [SENTIMENT:S]:
-{'Positive': 1.368421052631579, 'Negative': -0.368421052631579}
+{'Positive': 1.0, 'Negative': 0.0}
 
 
 [PROBLEM]:
@@ -155,7 +155,7 @@ I have a friend who got dumped by a guy she liked over the summer and I'm really
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.4067796610169492, 'Negative': 0.5932203389830508}
+{'Positive': 0.2711864406779661, 'Negative': 0.728813559322034}
 
 
 [PROBLEM]:
@@ -165,7 +165,7 @@ One thing that I'm too afraid to tell anyone is that my older brother took advan
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 1.0465116279069768, 'Negative': -0.04651162790697683}
+{'Positive': 0.7674418604651163, 'Negative': 0.2325581395348837}
 
 
 [PROBLEM]:
@@ -175,7 +175,7 @@ My roommate does not go out... at all. He does not talk either. Literally he sta
 [SOLUTION]:
 I feel okay. Like John Nash, I accept that my hallucinations are not real. They are not real people. So I can let them disappear in the distance. Do you think you could be projecting your feeings about breaking up with the child's mom onto the boy ?? Transferring your feelings onto a 7 month old baby is truly bad for the child. This is your son and he looks up to you. He is the wellspring of love. Let that love infect your being.  Adjusting to the idea that you are a parent for life, that is a big adjustment. No wonder you can't eat or sleep, this was a surprise for you, not a planned event.
 [SENTIMENT:S]:
-{'Positive': 0.5333333333333333, 'Negative': 0.4666666666666667}
+{'Positive': 0.26666666666666666, 'Negative': 0.7333333333333334}
 
 
 [PROBLEM]:
@@ -185,7 +185,7 @@ Confession time: I don't think I've ever had a real crush/romantic interest in a
 [SOLUTION]:
 Acquiring true friends takes a lot of work. Most people don't take the time to filter out those who really don't fit their life. So, I would recommend taking a close look at your acquaintences and figure out who you think would add value to your life. Then, carefully but frequently, invite them personally (not an email or text) to get together with you for a meal or a drink. Then, when you're together, focus exclusively on that person. Ask about their interests, their likes and dislikes etc. If they ask about you, answer simply without long explanations. They will react very positively to that experience and you'll be well on your way to creating a very special bond with them. If you see a guy to whom you are attracted, just be very nice to him and he'll soon get the idea that you're interested. Good luck!
 [SENTIMENT:S]:
-{'Positive': 0.4520547945205479, 'Negative': 0.547945205479452}
+{'Positive': 0.1780821917808219, 'Negative': 0.821917808219178}
 
 
 [PROBLEM]:
@@ -195,7 +195,7 @@ I swearrr you guys need to stop partying on the open area at the apartment near 
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.6341463414634146, 'Negative': 0.36585365853658536}
+{'Positive': 0.3902439024390244, 'Negative': 0.6097560975609756}
 
 
 [PROBLEM]:
@@ -205,7 +205,7 @@ It's funny how all the guys I talk to think that all we girls want is to have se
 [SOLUTION]:
 the fact that the other person reached out to you is a good sign!! sometimes u just gotta remind them casually like Hey u wanna grab dinner this wk? etc. also perhaps theyre busy with midterms but little gestures like that i definitely appreciate :)
 [SENTIMENT:S]:
-{'Positive': 0.5925925925925926, 'Negative': 0.40740740740740744}
+{'Positive': 0.07407407407407407, 'Negative': 0.9259259259259259}
 
 
 [PROBLEM]:
@@ -215,7 +215,7 @@ Why do I feel lonely even when I'm surrounded by people I love and who love me b
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.8653846153846154, 'Negative': 0.13461538461538458}
+{'Positive': 0.6346153846153846, 'Negative': 0.3653846153846154}
 
 
 [PROBLEM]:
@@ -225,7 +225,7 @@ During my freshman year I was incredibly lonely. I ate at the dining halls by my
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.24, 'Negative': 0.76}
+{'Positive': 0.128, 'Negative': 0.872}
 
 
 [PROBLEM]:
@@ -235,7 +235,7 @@ To all the freshmen/second years/ any-years thinking about how hard it is to mak
 [SOLUTION]:
 I felt that way too as a freshman (and even part of my sophomore year) but it gets better over time! People can only hang on to their high school friends for so long. It may feel lonely right now but keep trying and eventually you will find people who will want to spend time with you. You're not alone. :)
 [SENTIMENT:S]:
-{'Positive': 0.38636363636363635, 'Negative': 0.6136363636363636}
+{'Positive': 0.25, 'Negative': 0.75}
 
 
 [PROBLEM]:
@@ -245,7 +245,7 @@ Anyone else feel like they have a few friends but don't have anyone close? I fee
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.975609756097561, 'Negative': 0.024390243902439046}
+{'Positive': 0.8292682926829268, 'Negative': 0.1707317073170732}
 
 
 [PROBLEM]:
@@ -255,7 +255,7 @@ I had a huge crush on one very special girl for the entirety of my four years at
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 1.0263157894736843, 'Negative': -0.026315789473684292}
+{'Positive': 0.7894736842105263, 'Negative': 0.21052631578947367}
 
 
 [PROBLEM]:
@@ -265,7 +265,7 @@ My girlfriend recently broke up with me because she feels she needs more time to
 [SOLUTION]:
 Whenever I feel sad or super overwhelmed with life, I go to my professor's office hours and somehow he always makes me feel better. This is why I feel like North Campus professors are better than South Campus ones, because they care about both students' learning and wellbeing. Friends are a great support system too, but sometimes if my friend is having a rough week too, I dont want to unburden myself on her. Therefore, I'm so glad to have found a support system in my professors at UCLA. They really make me want to learn and be a better person too.  #uclasecretsprofessors #uclasecretssupport
 [SENTIMENT:S]:
-{'Positive': 0.5061728395061729, 'Negative': 0.49382716049382713}
+{'Positive': 0.18518518518518517, 'Negative': 0.8148148148148149}
 
 
 [PROBLEM]:
@@ -275,7 +275,7 @@ I'm taking a class with a really young professor (he's 31) and I've developed th
 [SOLUTION]:
 Pretty sure OP is talking about the Anime class I'm in. I was so surprised when no one said anything. I guess the last 30 minutes of magical-schoolgirl-in-Feudal-China shojo were enough to crush everyone's spirit lmao.
 [SENTIMENT:S]:
-{'Positive': 0.7142857142857143, 'Negative': 0.2857142857142857}
+{'Positive': 0.23809523809523808, 'Negative': 0.7619047619047619}
 
 
 [PROBLEM]:
@@ -285,7 +285,7 @@ Don't know if it's the American culture - it seems a very big deal when you talk
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.9056603773584906, 'Negative': 0.09433962264150941}
+{'Positive': 0.5471698113207547, 'Negative': 0.4528301886792453}
 
 
 [PROBLEM]:
@@ -295,7 +295,7 @@ I'm honestly surprised after what happened in Las Vegas and the extent of that h
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 0.4158415841584158, 'Negative': 0.5841584158415842}
+{'Positive': 0.25742574257425743, 'Negative': 0.7425742574257426}
 
 
 [PROBLEM]:
@@ -305,7 +305,7 @@ I just really want to be friends with this person that's pretty reserved. They h
 [SOLUTION]:
 Whenever I feel sad or super overwhelmed with life, I go to my professor's office hours and somehow he always makes me feel better. This is why I feel like North Campus professors are better than South Campus ones, because they care about both students' learning and wellbeing. Friends are a great support system too, but sometimes if my friend is having a rough week too, I dont want to unburden myself on her. Therefore, I'm so glad to have found a support system in my professors at UCLA. They really make me want to learn and be a better person too.  #uclasecretsprofessors #uclasecretssupport
 [SENTIMENT:S]:
-{'Positive': 0.54, 'Negative': 0.45999999999999996}
+{'Positive': 0.38, 'Negative': 0.62}
 
 
 [PROBLEM]:
@@ -315,7 +315,7 @@ My internship supervisor just rejected being a recommender although she praised 
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 1.6, 'Negative': -0.6000000000000001}
+{'Positive': 1.08, 'Negative': -0.08000000000000007}
 
 
 [PROBLEM]:
@@ -325,7 +325,7 @@ Honestly since coming to college, I've really stopped feeling any emotions. Bott
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.4945054945054945, 'Negative': 0.5054945054945055}
+{'Positive': 0.3626373626373626, 'Negative': 0.6373626373626373}
 
 
 [PROBLEM]:
@@ -335,7 +335,7 @@ Random question, but I don't know where else to ask it - has anyone else noticed
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 1.4137931034482758, 'Negative': -0.4137931034482758}
+{'Positive': 0.9310344827586207, 'Negative': 0.06896551724137934}
 
 
 [PROBLEM]:
@@ -345,7 +345,7 @@ I ate alone a ridiculous amount of times the past two years and it is great beca
 [SOLUTION]:
 Damn I could easily have been the one to write this. Same exact situation (down to the GPA), same drive. Best of luck to you, you're not alone.
 [SENTIMENT:S]:
-{'Positive': 0.21428571428571427, 'Negative': 0.7857142857142857}
+{'Positive': 0.16666666666666666, 'Negative': 0.8333333333333334}
 
 
 [PROBLEM]:
@@ -355,7 +355,7 @@ Damn I could easily have been the one to write this. Same exact situation (down 
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.9811320754716981, 'Negative': 0.018867924528301883}
+{'Positive': 0.6415094339622641, 'Negative': 0.3584905660377359}
 
 
 [PROBLEM]:
@@ -365,7 +365,7 @@ My friend from high school just started school at UCLA this year. During first w
 [SOLUTION]:
 Some people are hella immature. My advice is to just leave it. You can dive deep into the rabbit hole of psychology and never understand some things, it's not worth it. My guess is that she realized you're starting to like her, but she doesn't like you, and doesn't want to confront the awkwardness of talking to you about it. Or something like that. Another possibility is she met another guy and he doesn't like her hanging around you all the time. Or she wants to focus on schoolwork and finds hanging out with you distracting. Honestly, there's a million such variations but they all mean the same thing: Don't get attached to people until you know them for sure.
 [SENTIMENT:S]:
-{'Positive': 0.38028169014084506, 'Negative': 0.619718309859155}
+{'Positive': 0.014084507042253521, 'Negative': 0.9859154929577465}
 
 
 [PROBLEM]:
@@ -375,7 +375,7 @@ someone very close to me died recently and anytime i hear words to do with death
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 0.38461538461538464, 'Negative': 0.6153846153846154}
+{'Positive': 0.23076923076923078, 'Negative': 0.7692307692307692}
 
 
 [PROBLEM]:
@@ -385,7 +385,7 @@ I have lingering PTSD from years of abuse that my friends don't know about. Beca
 [SOLUTION]:
 So sorry to hear that life had been tough. Let me see if I have your story straight. You feel worthless because of your personality, ie a core part of you that you feel you cannot change. You think that people would not like or want to be friends with you. You probably stick to yourself and not actively try to make friends or you do and you fail. This makes you feel worthless again and continues the loop. Your feels, thoughts, and behavior is conspiring against you. This is a classic example a downward spiral. Please visit CAPS at your next convenience. Once you see your therapist, tell then that you are spiraling. They will help you. Your problem is not small. It is growing but it can be nipped in the bud. You sound motivated to change and really self aware, so I know you can do this!
 [SENTIMENT:S]:
-{'Positive': 1.175, 'Negative': -0.17500000000000004}
+{'Positive': 0.75, 'Negative': 0.25}
 
 
 [PROBLEM]:
@@ -395,7 +395,7 @@ This is my first year, and I still haven't made friends. Everyone told me over t
 [SOLUTION]:
 I think you should stop this i havent met the one type of mindset. Everyone you meet, in your classes, in your clubs, in your whatever, has the potential to be your friend or best friend. There are some relationships that on paper should've been a match made in heaven for friendship and they should've ended up being each other's best man or bridesmaid. But if you just expect things to fall into place and that friendship to grow then you're wholly mistaken by how friendships are even formed in the first place. There are some friends out there that have nothing in common but still somehow stay friends, because they worked at it, they kept at each other's lives and learned how to be friends with each other.
 [SENTIMENT:S]:
-{'Positive': 0.2804878048780488, 'Negative': 0.7195121951219512}
+{'Positive': 0.18292682926829268, 'Negative': 0.8170731707317074}
 
 
 [PROBLEM]:
@@ -405,7 +405,7 @@ Recently, I've been having to tell myself to not make permanent decisions based 
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 1.5, 'Negative': -0.5}
+{'Positive': 0.9666666666666667, 'Negative': 0.033333333333333326}
 
 
 [PROBLEM]:
@@ -413,9 +413,9 @@ He claimed that he wanted to talk to me about a club he was in. I obliged to a d
 [SENTIMENT:P]:
 {'Positive': 0.0196078431372549, 'Negative': 0.11764705882352941}
 [SOLUTION]:
-I'm sorry this has happened to you write. It is really hard to recover when you've trusted and opened up to therapists only to be let down in the end. I am in a similar situation with my psychologist. Took me ages to trust him, opened up to him about stuff I've never talked about to anyone else, cried myself through very difficult therapy, only for him to throw it all back in my face. He knows I have trust issues especially when it comes to men, because of my past, and he proved me right. I really don't know how you can move on from this, I'm hoping to meet up with an advocate after I've finished treatment to try and find a way forward. Not the same when the trust has gone though is it? I hope you can sort something out xxxx
+He probably has the best grades in the building though. Maybe he just wants a good future.. lol.
 [SENTIMENT:S]:
-{'Positive': 0.10457516339869281, 'Negative': 0.8954248366013072}
+{'Positive': 0.013071895424836602, 'Negative': 0.9869281045751634}
 
 
 [PROBLEM]:
@@ -425,7 +425,7 @@ People told me to think my recent relationship as a good experience and learn fr
 [SOLUTION]:
 Acquiring true friends takes a lot of work. Most people don't take the time to filter out those who really don't fit their life. So, I would recommend taking a close look at your acquaintences and figure out who you think would add value to your life. Then, carefully but frequently, invite them personally (not an email or text) to get together with you for a meal or a drink. Then, when you're together, focus exclusively on that person. Ask about their interests, their likes and dislikes etc. If they ask about you, answer simply without long explanations. They will react very positively to that experience and you'll be well on your way to creating a very special bond with them. If you see a guy to whom you are attracted, just be very nice to him and he'll soon get the idea that you're interested. Good luck!
 [SENTIMENT:S]:
-{'Positive': 0.3584905660377358, 'Negative': 0.6415094339622642}
+{'Positive': 0.2641509433962264, 'Negative': 0.7358490566037736}
 
 
 [PROBLEM]:
@@ -435,7 +435,7 @@ Being an underachiever, I can't tell how much the Simpsons episode 'Bart Gets An
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.44680851063829785, 'Negative': 0.5531914893617021}
+{'Positive': 0.30851063829787234, 'Negative': 0.6914893617021276}
 
 
 [PROBLEM]:
@@ -445,7 +445,7 @@ I seek solace in reading success stories of people who had rough circumstances b
 [SOLUTION]:
 What has happened, has happened. I can't change what I was given and what I've seen. I can't change OR forget my past. (yes, someone has told me to 'just forget about it.'' (what an ignorant idiot they are)). But, I'll tell you one thing: Things don't get better, we get better. This is not to imply people with depression and mental illness are flawed.We aren't. But, as time goes on, we get more resistant to the urges to die, to the thoughts, voices, moods etc. We get better as in we fight back with greater force and resistance. One day, I hope I will be so resistant that I won't need to rely on friends to help me with these battles. As well, ignore the ignorant. They can't even fathom it. Whenever I mention traumas, I hear this special breed of people they say that I'm being dramatic or trying to one them up with my experiences. They can't understand and get upset when you tell them they can't. Ignore them, they aren't worth your company or your time. Focus on the people who believe you. Those people will be your friends, and they will help you. Last notes: -Taking medications is a good thing if it helps you! Don't let anyone tell you otherwise. As well, don't be afraid to start antidepressants, you can always stop. -If you have a strong urge to end it, wait a little bit. Usually, these feelings fade in a bit. As well, talk to a friend who you can trust. -It doesn't hurt to seek help from professionals. Finally: If you are extremely depressed/suicidal and really need to talk and don't feel comfortable doing any of the above things. You can make a fake account and say that you need some help in the comments. I'm down to talk or anything and will probably reach out to you. A fine day to you all. As well, people who can't understand this kind of stuff: It is not a joke. Do not make jokes and be respectful!
 [SENTIMENT:S]:
-{'Positive': 0.26424870466321243, 'Negative': 0.7357512953367875}
+{'Positive': 0.17616580310880828, 'Negative': 0.8238341968911918}
 
 
 [PROBLEM]:
@@ -455,7 +455,7 @@ Can anyone give me some advice: I am a 4th year MIMG major with a 3.0GPA. I've a
 [SOLUTION]:
 AAMC provides financial aid thru their Finacial Assistance Program that gives you reduced price in MCAT fees and free year subscription for MSAR (provides full admission stats for med schools). For your grade, look into post bacc/SMP/master programs!! Each program have their pros and cons, but you pretty much need to prove that you can handle a full academic load AND do well. I'm recent physiology major grad who graduated and currently enrolled at CSULA's academic enhancer post bacc. I'm doing really well and will most likely raise my gpa by 0.2!!! It's ok to take time and get it right, even if you already graduated. Good luck to you and anyone else
 [SENTIMENT:S]:
-{'Positive': 0.5394736842105263, 'Negative': 0.4605263157894737}
+{'Positive': 0.4342105263157895, 'Negative': 0.5657894736842105}
 
 
 [PROBLEM]:
@@ -465,7 +465,7 @@ I mentally buried and justified my molester for over ten years because I didn't 
 [SOLUTION]:
 This is so horrible. Haven't you ever thought, Louise, that maybe you don't have "factitious disorder?" If I recall correctly you said the diagnosis was made by a doctor who soon after lost his job. He was yelling at you, which completely discredits any so-called health care worker. I don't know you of course. But you do NOT strike me as someone who's just making up stories to get attention. You have had huge upheaval and tragedy in your life, and are struggling. You were raped - you remember it and know who did it - and you did the right thing to report him to the police. You bear no responsibility whatsoever for his actions. It's not your fault you were raped, and it's not your fault he killed himself. I agree that everyone, even those who are "attention seekers," should be treated with compassion and respect. But I urge you not to paste that label on yourself because of one ignorant doctor. You are not evil.
 [SENTIMENT:S]:
-{'Positive': 0.6888888888888889, 'Negative': 0.3111111111111111}
+{'Positive': 0.3333333333333333, 'Negative': 0.6666666666666667}
 
 
 [PROBLEM]:
@@ -475,7 +475,7 @@ When do people usually meet their best friends or even friends in college? I'm a
 [SOLUTION]:
 I think you should stop this i havent met the one type of mindset. Everyone you meet, in your classes, in your clubs, in your whatever, has the potential to be your friend or best friend. There are some relationships that on paper should've been a match made in heaven for friendship and they should've ended up being each other's best man or bridesmaid. But if you just expect things to fall into place and that friendship to grow then you're wholly mistaken by how friendships are even formed in the first place. There are some friends out there that have nothing in common but still somehow stay friends, because they worked at it, they kept at each other's lives and learned how to be friends with each other.
 [SENTIMENT:S]:
-{'Positive': 2.0, 'Negative': -1.0}
+{'Positive': 1.1304347826086956, 'Negative': -0.13043478260869557}
 
 
 [PROBLEM]:
@@ -485,7 +485,7 @@ Last Thanksgiving my cousin's new wife, a blonde-haired, blue-eyed white girl ca
 [SOLUTION]:
 First mistake: when you're being involved with the community and other work opportunities it should be because you're personally interested in participating not for a resume boost!! Second mistake: you're privilege just to have the opportunity to study at a UC when many other people don't. But glad you made the best of your situation and found "happiness" wherever you be at. Go Bears!!!
 [SENTIMENT:S]:
-{'Positive': 1.2333333333333334, 'Negative': -0.2333333333333334}
+{'Positive': 0.6666666666666666, 'Negative': 0.33333333333333337}
 
 
 [PROBLEM]:
@@ -495,7 +495,7 @@ I had a lovely Thanksgiving with my family until my mom brought up how Die Hard 
 [SOLUTION]:
 To Whom it May Concern, Here is a skit idea for Spring Sing this year: a classic old-timey western movie gun fight scene set in the middle of bruin walk but instead of guns they use bananas. w/ love, A banana loving undergrad
 [SENTIMENT:S]:
-{'Positive': 1.6071428571428572, 'Negative': -0.6071428571428572}
+{'Positive': 1.0357142857142858, 'Negative': -0.03571428571428581}
 
 
 [PROBLEM]:
@@ -505,7 +505,7 @@ To the well-dressed boy who approached me at the edge of Washington Square Park 
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.38596491228070173, 'Negative': 0.6140350877192983}
+{'Positive': 0.22807017543859648, 'Negative': 0.7719298245614035}
 
 
 [PROBLEM]:
@@ -515,7 +515,7 @@ Guess our professor forgot about daylight savings, cuz he took a look at his wat
 [SOLUTION]:
 Pretty sure OP is talking about the Anime class I'm in. I was so surprised when no one said anything. I guess the last 30 minutes of magical-schoolgirl-in-Feudal-China shojo were enough to crush everyone's spirit lmao.
 [SENTIMENT:S]:
-{'Positive': 0.5277777777777778, 'Negative': 0.4722222222222222}
+{'Positive': 0.25, 'Negative': 0.75}
 
 
 [PROBLEM]:
@@ -525,7 +525,7 @@ can someone please explain what purpose nyu's multi factor authentication is sup
 [SOLUTION]:
 Honestly, it takes a lot to get good grades here. If you have any sort of social life or a job, I'm amazed if you do well. I stress out and have mini breakdowns every quarter.. just do your best and don't let it kill you. Also, don't snort the adderall.. I know it's more fun, but it doesn't work the way it is supposed to if you snort it.. hope that helps. Lol.
 [SENTIMENT:S]:
-{'Positive': 1.5714285714285714, 'Negative': -0.5714285714285714}
+{'Positive': 1.2857142857142858, 'Negative': -0.2857142857142858}
 
 
 [PROBLEM]:
@@ -535,7 +535,7 @@ Went to the doctor today and apparently I have all of the symptoms (obvious and 
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 1.2352941176470589, 'Negative': -0.23529411764705888}
+{'Positive': 0.8529411764705882, 'Negative': 0.1470588235294118}
 
 
 [PROBLEM]:
@@ -545,7 +545,7 @@ Last weekend, I hosted a halloween party, when friends went into my room to get 
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.5538461538461539, 'Negative': 0.4461538461538461}
+{'Positive': 0.24615384615384617, 'Negative': 0.7538461538461538}
 
 
 [PROBLEM]:
@@ -555,7 +555,7 @@ I like when my boyfriend calls me mommy in bed. Makes me feel like I'm finally t
 [SOLUTION]:
 That is unfortunate that your family isn't giving you the support you need. Sexual assaults are the lowest reported crimes because the victim is often ashamed or embarrassed. It is not your fault, people who sexually assault others are the scum of the earth. I was molested when I was a child and still get haunted from it even though it happened almost 10 years ago. It has affected me ever since it happened and will more than likely be that way forever. It isn't something that is easy to forget. My advice for you is to join support groups and talk about it, get your feelings out and try to become comfortable with them. I know talking about it brings up the memories, but it helps. I'd be willing to talk if you ever wanted to. Try to keep your head up.
 [SENTIMENT:S]:
-{'Positive': 1.1578947368421053, 'Negative': -0.1578947368421053}
+{'Positive': 0.5789473684210527, 'Negative': 0.42105263157894735}
 
 
 [PROBLEM]:
@@ -565,7 +565,7 @@ My freshman year roommate was such an extreme nudist. Always naked, dong in your
 [SOLUTION]:
 I felt that way too as a freshman (and even part of my sophomore year) but it gets better over time! People can only hang on to their high school friends for so long. It may feel lonely right now but keep trying and eventually you will find people who will want to spend time with you. You're not alone. :)
 [SENTIMENT:S]:
-{'Positive': 1.3157894736842106, 'Negative': -0.3157894736842106}
+{'Positive': 0.9473684210526315, 'Negative': 0.052631578947368474}
 
 
 [PROBLEM]:
@@ -575,7 +575,7 @@ I think I have a crush on one of Andrew Hamilton's bodyguards.I keep running int
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 1.0512820512820513, 'Negative': -0.05128205128205132}
+{'Positive': 0.5641025641025641, 'Negative': 0.4358974358974359}
 
 
 [PROBLEM]:
@@ -585,7 +585,7 @@ I'm afraid to come out to my parents because I'm worried they'd stop paying my t
 [SOLUTION]:
 What has happened, has happened. I can't change what I was given and what I've seen. I can't change OR forget my past. (yes, someone has told me to 'just forget about it.'' (what an ignorant idiot they are)). But, I'll tell you one thing: Things don't get better, we get better. This is not to imply people with depression and mental illness are flawed.We aren't. But, as time goes on, we get more resistant to the urges to die, to the thoughts, voices, moods etc. We get better as in we fight back with greater force and resistance. One day, I hope I will be so resistant that I won't need to rely on friends to help me with these battles. As well, ignore the ignorant. They can't even fathom it. Whenever I mention traumas, I hear this special breed of people they say that I'm being dramatic or trying to one them up with my experiences. They can't understand and get upset when you tell them they can't. Ignore them, they aren't worth your company or your time. Focus on the people who believe you. Those people will be your friends, and they will help you. Last notes: -Taking medications is a good thing if it helps you! Don't let anyone tell you otherwise. As well, don't be afraid to start antidepressants, you can always stop. -If you have a strong urge to end it, wait a little bit. Usually, these feelings fade in a bit. As well, talk to a friend who you can trust. -It doesn't hurt to seek help from professionals. Finally: If you are extremely depressed/suicidal and really need to talk and don't feel comfortable doing any of the above things. You can make a fake account and say that you need some help in the comments. I'm down to talk or anything and will probably reach out to you. A fine day to you all. As well, people who can't understand this kind of stuff: It is not a joke. Do not make jokes and be respectful!
 [SENTIMENT:S]:
-{'Positive': 2.142857142857143, 'Negative': -1.1428571428571428}
+{'Positive': 1.5714285714285714, 'Negative': -0.5714285714285714}
 
 
 [PROBLEM]:
@@ -595,7 +595,7 @@ As a man, I have been sexually assaulted by a woman in the past. I have wanted t
 [SOLUTION]:
 That is unfortunate that your family isn't giving you the support you need. Sexual assaults are the lowest reported crimes because the victim is often ashamed or embarrassed. It is not your fault, people who sexually assault others are the scum of the earth. I was molested when I was a child and still get haunted from it even though it happened almost 10 years ago. It has affected me ever since it happened and will more than likely be that way forever. It isn't something that is easy to forget. My advice for you is to join support groups and talk about it, get your feelings out and try to become comfortable with them. I know talking about it brings up the memories, but it helps. I'd be willing to talk if you ever wanted to. Try to keep your head up.
 [SENTIMENT:S]:
-{'Positive': 0.7659574468085106, 'Negative': 0.23404255319148937}
+{'Positive': 0.574468085106383, 'Negative': 0.42553191489361697}
 
 
 [PROBLEM]:
@@ -605,7 +605,7 @@ Running 2 hours past the “incident” in Lower Manhattan and still haven't rec
 [SOLUTION]:
 If the therapy isn't working, then start running around the campus. Run to Wilshire, and then back up Veteran if you have to. Make strategic Spotify playlists to lift your mood while you run. It's good to run in the morning, and gaze at the horizon. Anhedonia is just apathy and insatiability, it's common to feel this way. You can tap into your subtle body and stimulate that which you're repressing. The brain is malleable, and nerves can heal themselves. Steve Jobs did acid to btw.
 [SENTIMENT:S]:
-{'Positive': 2.2857142857142856, 'Negative': -1.2857142857142856}
+{'Positive': 1.0, 'Negative': 0.0}
 
 
 [PROBLEM]:
@@ -615,7 +615,7 @@ Me: I'm a strong independent woman and no man can ever make me feel small. Also 
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 2.9444444444444446, 'Negative': -1.9444444444444446}
+{'Positive': 1.8333333333333333, 'Negative': -0.8333333333333333}
 
 
 [PROBLEM]:
@@ -625,7 +625,7 @@ Growing up, my parents at best, were emotionally neglectful and at worst, emotio
 [SOLUTION]:
 Im a flaming feminist and Im here for you. This system hurts men and doesn't allow them much emotional release. A feminist who wants to see a better world realizes the pain of everyone. I'm sorry if others have made you feel discounted. There are so many opinions out there these days it's hard for good ones to be heard. I hope others don't discourage you from telling your story. I wish you peace
 [SENTIMENT:S]:
-{'Positive': 0.6296296296296297, 'Negative': 0.37037037037037035}
+{'Positive': 0.42592592592592593, 'Negative': 0.5740740740740741}
 
 
 [PROBLEM]:
@@ -635,7 +635,7 @@ If you have a laptop don't sit in a seat with a computer in the library just to 
 [SOLUTION]:
 To Whom it May Concern, Here is a skit idea for Spring Sing this year: a classic old-timey western movie gun fight scene set in the middle of bruin walk but instead of guns they use bananas. w/ love, A banana loving undergrad
 [SENTIMENT:S]:
-{'Positive': 1.5, 'Negative': -0.5}
+{'Positive': 0.5909090909090909, 'Negative': 0.40909090909090906}
 
 
 [PROBLEM]:
@@ -645,7 +645,7 @@ I hate my body. It faces a wage gap, underrepresentation in corporate boardrooms
 [SOLUTION]:
 Unfortunately, you can't hide from pain, trauma or abuse. Try to learn from your experience, avoid situations where you feel like your friends are taking advantage of you and stand your ground. You are not weak, you are learning.
 [SENTIMENT:S]:
-{'Positive': 0.6938775510204082, 'Negative': 0.30612244897959184}
+{'Positive': 0.3469387755102041, 'Negative': 0.653061224489796}
 
 
 [PROBLEM]:
@@ -655,7 +655,7 @@ Sometimes when I'm in Bobst I'll pretend I have to take a call or something just
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 1.7142857142857142, 'Negative': -0.7142857142857142}
+{'Positive': 1.0952380952380953, 'Negative': -0.09523809523809534}
 
 
 [PROBLEM]:
@@ -665,7 +665,7 @@ Tonight, I'm going out and am playing a drinking game - take a shot for every Pi
 [SOLUTION]:
 I feel okay. Like John Nash, I accept that my hallucinations are not real. They are not real people. So I can let them disappear in the distance. Do you think you could be projecting your feeings about breaking up with the child's mom onto the boy ?? Transferring your feelings onto a 7 month old baby is truly bad for the child. This is your son and he looks up to you. He is the wellspring of love. Let that love infect your being.  Adjusting to the idea that you are a parent for life, that is a big adjustment. No wonder you can't eat or sleep, this was a surprise for you, not a planned event.
 [SENTIMENT:S]:
-{'Positive': 0.5, 'Negative': 0.5}
+{'Positive': 0.4166666666666667, 'Negative': 0.5833333333333333}
 
 
 [PROBLEM]:
@@ -675,7 +675,7 @@ I read the secret about the Comic Sans font and literally felt stabbed in my hea
 [SOLUTION]:
 If you prefer someone who takes pride in their appearance there's really nothing wrong with that. A bit harsh, but it's about the line you draw. Yours is at cargo shorts. Other people's may be at simply showering.
 [SENTIMENT:S]:
-{'Positive': 0.5365853658536586, 'Negative': 0.46341463414634143}
+{'Positive': 0.14634146341463414, 'Negative': 0.8536585365853658}
 
 
 [PROBLEM]:
@@ -685,7 +685,7 @@ Today, I had two of my best friends respectively cut me off. The first one told 
 [SOLUTION]:
 First, I am so sorry that you are going through this. I have dealt with many similar feelings that you are going through right now. In the past I’ve struggled to have a sense of self-worth and self-confidence, and though I have gotten better these feelings still persist to an extent today. Second, I want to assure you that things, though will take time, will get better, even if you may not feel so. Trust me, I’ve felt that way a lot too, where I thought things would not get better. But as long as you try to make things better, even if they are small steps, trust me, they will get better. Lastly, I want to assure you that you are worthy of being here, and no one deserves to feel how you are feeling. Please feel free to message me if you want to talk. Also I encourage you to try out CAPS, but I understand if you don’t find it helpful (I personally didn’t find it that helpful for me as I prefer to talk to friends or at least peers about my problems).
 [SENTIMENT:S]:
-{'Positive': 1.1428571428571428, 'Negative': -0.1428571428571428}
+{'Positive': 0.6428571428571429, 'Negative': 0.3571428571428571}
 
 
 [PROBLEM]:
@@ -695,7 +695,7 @@ I think my bobst crush finished midterms and I'm low-key kind of upset
 [SOLUTION]:
 the fact that the other person reached out to you is a good sign!! sometimes u just gotta remind them casually like Hey u wanna grab dinner this wk? etc. also perhaps theyre busy with midterms but little gestures like that i definitely appreciate :)
 [SENTIMENT:S]:
-{'Positive': 4.111111111111111, 'Negative': -3.1111111111111107}
+{'Positive': 2.5555555555555554, 'Negative': -1.5555555555555554}
 
 
 [PROBLEM]:
@@ -705,7 +705,7 @@ I said a dude was handsome once like 2 weeks ago and now all my friends are lite
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.8363636363636363, 'Negative': 0.1636363636363637}
+{'Positive': 0.4727272727272727, 'Negative': 0.5272727272727273}
 
 
 [PROBLEM]:
@@ -715,7 +715,7 @@ I found out I had genital herpes the other day. I went home last weekend crying 
 [SOLUTION]:
 You have been in this position a long time and it will feel shocking to you to be assertive with her. She is being very selfish. Your school work is work enough. When she is verbally abusive to you, you are old enough now to stop pleasing her and tell her instead that you do not deserve to be treated that way. And walk out of the house after you tell her that you do not deserve to be treated that way. Do not do the chores if she verbally abuses you. If you treat me that way, I won't help you at all. You can stand up to her. You are not her little girl anymore. Doing this will feel foreign to you. But she is being very bossy and unkind to a perfect daughter. I tried to get my mother's understanding and approval for years before I realized I wasn't going to get it.
 [SENTIMENT:S]:
-{'Positive': 1.2413793103448276, 'Negative': -0.24137931034482762}
+{'Positive': 0.6206896551724138, 'Negative': 0.3793103448275862}
 
 
 [PROBLEM]:
@@ -725,7 +725,7 @@ I'm a straight guy and I'm legitimately confused as to what I'm supposed to be d
 [SOLUTION]:
 So sorry to hear that life had been tough. Let me see if I have your story straight. You feel worthless because of your personality, ie a core part of you that you feel you cannot change. You think that people would not like or want to be friends with you. You probably stick to yourself and not actively try to make friends or you do and you fail. This makes you feel worthless again and continues the loop. Your feels, thoughts, and behavior is conspiring against you. This is a classic example a downward spiral. Please visit CAPS at your next convenience. Once you see your therapist, tell then that you are spiraling. They will help you. Your problem is not small. It is growing but it can be nipped in the bud. You sound motivated to change and really self aware, so I know you can do this!
 [SENTIMENT:S]:
-{'Positive': 0.24742268041237114, 'Negative': 0.7525773195876289}
+{'Positive': 0.10309278350515463, 'Negative': 0.8969072164948454}
 
 
 [PROBLEM]:
@@ -735,7 +735,7 @@ I'm a Jew and I'm pro-Palestine. As much as I want to get involved with SJP, I c
 [SOLUTION]:
 I just met a woman who graduated from UCSF med school after completing her MPH at Johns Hopkins. BUT she did all of that after taking 4 gap years because she graduated from UCLA with a 2.6 GPA. In those gap years she worked on research that she was really passionate about. As long as you pursue your passions and really show growth in your gap years, anything is possible. If you really want to be a doctor, you will be. Perseverance is the epitome of the medical journey. Good luck, stay strong, and stay motivated. You'll get there. and. don't. compare. yourself. to. others.
 [SENTIMENT:S]:
-{'Positive': 0.9302325581395349, 'Negative': 0.06976744186046513}
+{'Positive': 0.4418604651162791, 'Negative': 0.5581395348837209}
 
 
 [PROBLEM]:
@@ -745,7 +745,7 @@ Today I was studying for an exam in the Gallatin building when I needed to pee. 
 [SOLUTION]:
 Her reasons aren’t important. Her actions are and she, for whatever reason, doesn’t want you close to her. Accept it and be glad that you found out before you developed strong feelings for her.
 [SENTIMENT:S]:
-{'Positive': 1.5454545454545454, 'Negative': -0.5454545454545454}
+{'Positive': 0.8181818181818182, 'Negative': 0.18181818181818177}
 
 
 [PROBLEM]:
@@ -755,7 +755,7 @@ I was drunk at a friend's house. Her roommate - a boy - offered to take me upsta
 [SOLUTION]:
 This is so horrible. Haven't you ever thought, Louise, that maybe you don't have "factitious disorder?" If I recall correctly you said the diagnosis was made by a doctor who soon after lost his job. He was yelling at you, which completely discredits any so-called health care worker. I don't know you of course. But you do NOT strike me as someone who's just making up stories to get attention. You have had huge upheaval and tragedy in your life, and are struggling. You were raped - you remember it and know who did it - and you did the right thing to report him to the police. You bear no responsibility whatsoever for his actions. It's not your fault you were raped, and it's not your fault he killed himself. I agree that everyone, even those who are "attention seekers," should be treated with compassion and respect. But I urge you not to paste that label on yourself because of one ignorant doctor. You are not evil.
 [SENTIMENT:S]:
-{'Positive': 0.23157894736842105, 'Negative': 0.7684210526315789}
+{'Positive': 0.12631578947368421, 'Negative': 0.8736842105263158}
 
 
 [PROBLEM]:
@@ -765,7 +765,7 @@ I don't like judging people's choices, but it really sucks to walk by a smoker b
 [SOLUTION]:
 I know it seems tough now --- but it will get better pretty quickly. Just keep your eyes open as you walk through the campus and I'm sure you'll see a number of women who will take your mind off of your last girlfriend. And, be grateful for the fact she broke up earlier rather than later because the longer it goes on, the more difficult it is to get out.
 [SENTIMENT:S]:
-{'Positive': 0.8125, 'Negative': 0.1875}
+{'Positive': 0.34375, 'Negative': 0.65625}
 
 
 [PROBLEM]:
@@ -775,7 +775,7 @@ This week, my girlfriend broke up with me, I lost my job, learned my best friend
 [SOLUTION]:
 I think you should stop this i havent met the one type of mindset. Everyone you meet, in your classes, in your clubs, in your whatever, has the potential to be your friend or best friend. There are some relationships that on paper should've been a match made in heaven for friendship and they should've ended up being each other's best man or bridesmaid. But if you just expect things to fall into place and that friendship to grow then you're wholly mistaken by how friendships are even formed in the first place. There are some friends out there that have nothing in common but still somehow stay friends, because they worked at it, they kept at each other's lives and learned how to be friends with each other.
 [SENTIMENT:S]:
-{'Positive': 1.4230769230769231, 'Negative': -0.42307692307692313}
+{'Positive': 0.8076923076923077, 'Negative': 0.1923076923076923}
 
 
 [PROBLEM]:
@@ -785,7 +785,7 @@ My professor asked my class if anyone wants to teach her morning class so she ca
 [SOLUTION]:
 Act as if you suspect nothing. You don't have any 'ammunition' to use to do anything other than trying your best to get through the class and into another professor's class who will likely also do the same. Life is the way it is and it is difficult to change individually. Most individuals in a postion to do something are unwilling to go out on a limb so they perpetuate the discrimination. Take a deep breath and plug on. You'll be ok.
 [SENTIMENT:S]:
-{'Positive': 1.0833333333333333, 'Negative': -0.08333333333333326}
+{'Positive': 0.75, 'Negative': 0.25}
 
 
 [PROBLEM]:
@@ -795,7 +795,7 @@ There's a restaurant called Bowlin across the street from the silver center. I e
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 1.7391304347826086, 'Negative': -0.7391304347826086}
+{'Positive': 0.8695652173913043, 'Negative': 0.13043478260869568}
 
 
 [PROBLEM]:
@@ -805,7 +805,7 @@ I had sex on my roommate's bed and basically my partner and I both came all over
 [SOLUTION]:
 When you said she saved your life several times, it seems like a red flag. Maybe she wanted to be a partner, not a savior.
 [SENTIMENT:S]:
-{'Positive': 0.8636363636363636, 'Negative': 0.13636363636363635}
+{'Positive': 0.13636363636363635, 'Negative': 0.8636363636363636}
 
 
 [PROBLEM]:
@@ -815,7 +815,7 @@ i'm too scared to post that on my actual facebook because i'm still facebook fri
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 0.75, 'Negative': 0.25}
+{'Positive': 0.4166666666666667, 'Negative': 0.5833333333333333}
 
 
 [PROBLEM]:
@@ -825,7 +825,7 @@ I got into a section of a language class where everyone else is from the same cl
 [SOLUTION]:
 Pretty sure OP is talking about the Anime class I'm in. I was so surprised when no one said anything. I guess the last 30 minutes of magical-schoolgirl-in-Feudal-China shojo were enough to crush everyone's spirit lmao.
 [SENTIMENT:S]:
-{'Positive': 0.30158730158730157, 'Negative': 0.6984126984126984}
+{'Positive': 0.031746031746031744, 'Negative': 0.9682539682539683}
 
 
 [PROBLEM]:
@@ -835,7 +835,7 @@ A few months ago, I was sexually assaulted. I was heartbroken, disappointed and 
 [SOLUTION]:
 That is unfortunate that your family isn't giving you the support you need. Sexual assaults are the lowest reported crimes because the victim is often ashamed or embarrassed. It is not your fault, people who sexually assault others are the scum of the earth. I was molested when I was a child and still get haunted from it even though it happened almost 10 years ago. It has affected me ever since it happened and will more than likely be that way forever. It isn't something that is easy to forget. My advice for you is to join support groups and talk about it, get your feelings out and try to become comfortable with them. I know talking about it brings up the memories, but it helps. I'd be willing to talk if you ever wanted to. Try to keep your head up.
 [SENTIMENT:S]:
-{'Positive': 1.0196078431372548, 'Negative': -0.019607843137254832}
+{'Positive': 0.49019607843137253, 'Negative': 0.5098039215686274}
 
 
 [PROBLEM]:
@@ -845,7 +845,7 @@ Fml right now. I've been slacking off in school for the past four years because 
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 1.2380952380952381, 'Negative': -0.23809523809523814}
+{'Positive': 1.0, 'Negative': 0.0}
 
 
 [PROBLEM]:
@@ -855,7 +855,7 @@ In my culture, it's standard for a son to give his first month's payment to his 
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.5542168674698795, 'Negative': 0.4457831325301205}
+{'Positive': 0.3493975903614458, 'Negative': 0.6506024096385542}
 
 
 [PROBLEM]:
@@ -865,7 +865,7 @@ I'm a commuter student and I live with my parents in their apartment on the Uppe
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.8431372549019608, 'Negative': 0.1568627450980392}
+{'Positive': 0.3137254901960784, 'Negative': 0.6862745098039216}
 
 
 [PROBLEM]:
@@ -885,7 +885,7 @@ As a proud Sternie who sees the anti-Stern sentiment on this page and feels incr
 [SOLUTION]:
 I am so sorry for what you and your family have experienced. I haven't had that type of experience, but I have suffered from PTSD. The more you talk about it, the better. But I would encourage you to speak with a counselor, someone who specializes in trauma. The rest of your life doesn't have to be lived in fear. I believe your story is miraculous. It sounds like God heard you. I believe if you ask Him to help you overcome the trauma, He'll hear you again and answer. I was led to speak to a counselor, and they helped tremendously. Then I continued to attend seminars to learn more about overcoming my past. It's a process, but God is faithful. I've experienced so much healing, and I don't doubt you will as well. Let us know how it goes. We're here with you.
 [SENTIMENT:S]:
-{'Positive': 1.0625, 'Negative': -0.0625}
+{'Positive': 0.75, 'Negative': 0.25}
 
 
 [PROBLEM]:
@@ -895,7 +895,7 @@ I was in my friend's room when I asked him what he was dressing up as for Hallow
 [SOLUTION]:
 Whenever I feel sad or super overwhelmed with life, I go to my professor's office hours and somehow he always makes me feel better. This is why I feel like North Campus professors are better than South Campus ones, because they care about both students' learning and wellbeing. Friends are a great support system too, but sometimes if my friend is having a rough week too, I dont want to unburden myself on her. Therefore, I'm so glad to have found a support system in my professors at UCLA. They really make me want to learn and be a better person too.  #uclasecretsprofessors #uclasecretssupport
 [SENTIMENT:S]:
-{'Positive': 1.1935483870967742, 'Negative': -0.19354838709677424}
+{'Positive': 0.5483870967741935, 'Negative': 0.4516129032258065}
 
 
 [PROBLEM]:
@@ -905,7 +905,7 @@ To the OP who anonymously sent in a secret last night about a professor who alle
 [SOLUTION]:
 Whenever I feel sad or super overwhelmed with life, I go to my professor's office hours and somehow he always makes me feel better. This is why I feel like North Campus professors are better than South Campus ones, because they care about both students' learning and wellbeing. Friends are a great support system too, but sometimes if my friend is having a rough week too, I dont want to unburden myself on her. Therefore, I'm so glad to have found a support system in my professors at UCLA. They really make me want to learn and be a better person too.  #uclasecretsprofessors #uclasecretssupport
 [SENTIMENT:S]:
-{'Positive': 0.35714285714285715, 'Negative': 0.6428571428571428}
+{'Positive': 0.21428571428571427, 'Negative': 0.7857142857142857}
 
 
 [PROBLEM]:
@@ -915,7 +915,7 @@ A random drunk girl climbed in through my open window from my fire escape and as
 [SOLUTION]:
 I know it seems tough now --- but it will get better pretty quickly. Just keep your eyes open as you walk through the campus and I'm sure you'll see a number of women who will take your mind off of your last girlfriend. And, be grateful for the fact she broke up earlier rather than later because the longer it goes on, the more difficult it is to get out.
 [SENTIMENT:S]:
-{'Positive': 1.3571428571428572, 'Negative': -0.3571428571428572}
+{'Positive': 0.6071428571428571, 'Negative': 0.3928571428571429}
 
 
 [PROBLEM]:
@@ -925,7 +925,7 @@ My quiet, religiously conservative roommate got a girlfriend a few weeks ago. Th
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.6140350877192983, 'Negative': 0.38596491228070173}
+{'Positive': 0.3333333333333333, 'Negative': 0.6666666666666667}
 
 
 [PROBLEM]:
@@ -935,7 +935,7 @@ Am I the only one who thinks the new security guard at Bobst is super hot? He st
 [SOLUTION]:
 Damn I could easily have been the one to write this. Same exact situation (down to the GPA), same drive. Best of luck to you, you're not alone.
 [SENTIMENT:S]:
-{'Positive': 0.5319148936170213, 'Negative': 0.46808510638297873}
+{'Positive': 0.23404255319148937, 'Negative': 0.7659574468085106}
 
 
 [PROBLEM]:
@@ -945,7 +945,7 @@ I still don't know why they put the Wellness Expo in front of Stern. Like, I obv
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 1.5294117647058822, 'Negative': -0.5294117647058822}
+{'Positive': 1.2941176470588236, 'Negative': -0.2941176470588236}
 
 
 [PROBLEM]:
@@ -955,7 +955,7 @@ I've been dating a girl for almost two years now. I'm a mixed-race POC and she's
 [SOLUTION]:
 My brother killed himself a few years ago. I don't keep track of the date. But losing a child is a whole nother level of heartbreak. I know I was devastated when my GF lost our baby at 3 months. But having actually having had known him and loving him for so many years then losing him cannot be easy. Just try and remember the good times you shared.
 [SENTIMENT:S]:
-{'Positive': 0.5081967213114754, 'Negative': 0.4918032786885246}
+{'Positive': 0.26229508196721313, 'Negative': 0.7377049180327868}
 
 
 [PROBLEM]:
@@ -965,7 +965,7 @@ Being celibate in this school (and college in general) has been rougher than I a
 [SOLUTION]:
 What has happened, has happened. I can't change what I was given and what I've seen. I can't change OR forget my past. (yes, someone has told me to 'just forget about it.'' (what an ignorant idiot they are)). But, I'll tell you one thing: Things don't get better, we get better. This is not to imply people with depression and mental illness are flawed.We aren't. But, as time goes on, we get more resistant to the urges to die, to the thoughts, voices, moods etc. We get better as in we fight back with greater force and resistance. One day, I hope I will be so resistant that I won't need to rely on friends to help me with these battles. As well, ignore the ignorant. They can't even fathom it. Whenever I mention traumas, I hear this special breed of people they say that I'm being dramatic or trying to one them up with my experiences. They can't understand and get upset when you tell them they can't. Ignore them, they aren't worth your company or your time. Focus on the people who believe you. Those people will be your friends, and they will help you. Last notes: -Taking medications is a good thing if it helps you! Don't let anyone tell you otherwise. As well, don't be afraid to start antidepressants, you can always stop. -If you have a strong urge to end it, wait a little bit. Usually, these feelings fade in a bit. As well, talk to a friend who you can trust. -It doesn't hurt to seek help from professionals. Finally: If you are extremely depressed/suicidal and really need to talk and don't feel comfortable doing any of the above things. You can make a fake account and say that you need some help in the comments. I'm down to talk or anything and will probably reach out to you. A fine day to you all. As well, people who can't understand this kind of stuff: It is not a joke. Do not make jokes and be respectful!
 [SENTIMENT:S]:
-{'Positive': 0.5633802816901409, 'Negative': 0.43661971830985913}
+{'Positive': 0.19718309859154928, 'Negative': 0.8028169014084507}
 
 
 [PROBLEM]:
@@ -975,7 +975,7 @@ Last semester my professor told us during our second to last class that we need 
 [SOLUTION]:
 Pretty sure OP is talking about the Anime class I'm in. I was so surprised when no one said anything. I guess the last 30 minutes of magical-schoolgirl-in-Feudal-China shojo were enough to crush everyone's spirit lmao.
 [SENTIMENT:S]:
-{'Positive': 0.2571428571428571, 'Negative': 0.7428571428571429}
+{'Positive': 0.02857142857142857, 'Negative': 0.9714285714285714}
 
 
 [PROBLEM]:
@@ -985,7 +985,7 @@ Sounds like you're better off without her. She sounds like a terrible human bein
 [SOLUTION]:
 Sounds like you're better off without her. She sounds like a terrible human being at heart and her true colors emerged. I hope you find someone more deserving of your affection
 [SENTIMENT:S]:
-{'Positive': 1.4705882352941178, 'Negative': -0.47058823529411775}
+{'Positive': 0.29411764705882354, 'Negative': 0.7058823529411764}
 
 
 [PROBLEM]:
@@ -1005,7 +1005,7 @@ Would anyone be interested in getting together and forming a drum circle club? I
 [SOLUTION]:
 all these false priests and charlatan of eCONomists use their unrealistic assumptions like perfect rationality and self interested actors to maintain the dominance of the rootless capitalist rent seekers by spreading the twisted sick dogma of neoliberalism. there was this one time i read an article on behavioral economics so it's pretty clear to me the whole field is a sham.
 [SENTIMENT:S]:
-{'Positive': 1.0952380952380953, 'Negative': -0.09523809523809534}
+{'Positive': 0.38095238095238093, 'Negative': 0.6190476190476191}
 
 
 [PROBLEM]:
@@ -1015,7 +1015,7 @@ First of all if you decided to almost kill urself only after being rejected by a
 [SOLUTION]:
 First of all if you decided to almost kill urself only after being rejected by a school, you gotta reevaluate your life. Happy for you but you got issues
 [SENTIMENT:S]:
-{'Positive': 2.5833333333333335, 'Negative': -1.5833333333333335}
+{'Positive': 2.25, 'Negative': -1.25}
 
 
 [PROBLEM]:
@@ -1025,7 +1025,7 @@ First mistake: when you're being involved with the community and other work oppo
 [SOLUTION]:
 First mistake: when you're being involved with the community and other work opportunities it should be because you're personally interested in participating not for a resume boost!! Second mistake: you're privilege just to have the opportunity to study at a UC when many other people don't. But glad you made the best of your situation and found "happiness" wherever you be at. Go Bears!!!
 [SENTIMENT:S]:
-{'Positive': 1.2564102564102564, 'Negative': -0.2564102564102564}
+{'Positive': 0.5897435897435898, 'Negative': 0.41025641025641024}
 
 
 [PROBLEM]:
@@ -1035,7 +1035,7 @@ That is quite the story
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 12.0, 'Negative': -11.0}
+{'Positive': 8.0, 'Negative': -7.0}
 
 
 [PROBLEM]:
@@ -1045,7 +1045,7 @@ I'm married and eloped. Most of his family and our friend don't know. If you nee
 [SOLUTION]:
 Acquiring true friends takes a lot of work. Most people don't take the time to filter out those who really don't fit their life. So, I would recommend taking a close look at your acquaintences and figure out who you think would add value to your life. Then, carefully but frequently, invite them personally (not an email or text) to get together with you for a meal or a drink. Then, when you're together, focus exclusively on that person. Ask about their interests, their likes and dislikes etc. If they ask about you, answer simply without long explanations. They will react very positively to that experience and you'll be well on your way to creating a very special bond with them. If you see a guy to whom you are attracted, just be very nice to him and he'll soon get the idea that you're interested. Good luck!
 [SENTIMENT:S]:
-{'Positive': 3.0714285714285716, 'Negative': -2.0714285714285716}
+{'Positive': 1.5714285714285714, 'Negative': -0.5714285714285714}
 
 
 [PROBLEM]:
@@ -1055,7 +1055,7 @@ It is very brave of you to share the bad things happened to you and expressed yo
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 0.5875, 'Negative': 0.4125}
+{'Positive': 0.35, 'Negative': 0.65}
 
 
 [PROBLEM]:
@@ -1065,7 +1065,7 @@ Whatever you do, don't "just wait" for people to change-they never do! (At least
 [SOLUTION]:
 Whatever you do, don't "just wait" for people to change-they never do! (At least not in the ways you are expecting). Ask yourself what your requirements are for a relationship. Once your standards for quality time, affection, communication, reliability, commitment, etc. are met, it won't matter who is initiating what. A secure relationship allows a person to stop keeping score of everything that happens because you generally feel safe, satisfied, and wanted.
 [SENTIMENT:S]:
-{'Positive': 1.0816326530612246, 'Negative': -0.08163265306122458}
+{'Positive': 0.5306122448979592, 'Negative': 0.4693877551020408}
 
 
 [PROBLEM]:
@@ -1075,7 +1075,7 @@ That is unfortunate that your family isn't giving you the support you need. Sexu
 [SOLUTION]:
 That is unfortunate that your family isn't giving you the support you need. Sexual assaults are the lowest reported crimes because the victim is often ashamed or embarrassed. It is not your fault, people who sexually assault others are the scum of the earth. I was molested when I was a child and still get haunted from it even though it happened almost 10 years ago. It has affected me ever since it happened and will more than likely be that way forever. It isn't something that is easy to forget. My advice for you is to join support groups and talk about it, get your feelings out and try to become comfortable with them. I know talking about it brings up the memories, but it helps. I'd be willing to talk if you ever wanted to. Try to keep your head up.
 [SENTIMENT:S]:
-{'Positive': 0.6376811594202898, 'Negative': 0.3623188405797102}
+{'Positive': 0.4492753623188406, 'Negative': 0.5507246376811594}
 
 
 [PROBLEM]:
@@ -1085,7 +1085,7 @@ U are a very brave and strong person who stood up and talked to your mom and bro
 [SOLUTION]:
 U are a very brave and strong person who stood up and talked to your mom and brother about it. I have helped many people in past recovering from these kind of situations. If you need assistance feel free to get in touch. Remember better late than never. You have a long long life to go.
 [SENTIMENT:S]:
-{'Positive': 1.2333333333333334, 'Negative': -0.2333333333333334}
+{'Positive': 1.0333333333333334, 'Negative': -0.03333333333333344}
 
 
 [PROBLEM]:
@@ -1095,7 +1095,7 @@ When I got into Berkeley, I was extremely excited and felt as though I deserved 
 [SOLUTION]:
 When I got into Berkeley, I was extremely excited and felt as though I deserved my admission based on my hard work in HS. However, when I actually got to Berkeley, I realized that the majority of my peers are WAAAAY smarter than me....but, who cares?? You got in, stick out your four years, and get UC Berkeley under your belt. I thought the admissions committee was on crack for accepting me after I finished my first semester, but I stuck it out. You obviously have something in you that makes you worthy of being a golden bear. Perseverance is all it takes.. (BTW, I had to look up how to spell "perseverance") :) You got this!
 [SENTIMENT:S]:
-{'Positive': 0.45454545454545453, 'Negative': 0.5454545454545454}
+{'Positive': 0.2727272727272727, 'Negative': 0.7272727272727273}
 
 
 [PROBLEM]:
@@ -1105,7 +1105,7 @@ When I got into Berkeley, I was extremely excited and felt as though I deserved 
 [SOLUTION]:
 1) I'm not a genius in any way, shape, or form. 2) You must be a genius if you got accepted for Fall 2015! Those apps haven't even come out yet. Impressive, my friend. 3) All joking aside, excellent choice.
 [SENTIMENT:S]:
-{'Positive': 1.3333333333333333, 'Negative': -0.33333333333333326}
+{'Positive': 0.5714285714285714, 'Negative': 0.4285714285714286}
 
 
 [PROBLEM]:
@@ -1115,7 +1115,7 @@ Get a hobby where you meet new, awesome people.
 [SOLUTION]:
 Get a hobby where you meet new, awesome people.
 [SENTIMENT:S]:
-{'Positive': 1.8333333333333333, 'Negative': -0.8333333333333333}
+{'Positive': 1.5, 'Negative': -0.5}
 
 
 [PROBLEM]:
@@ -1125,7 +1125,7 @@ Ya!! Hit me up too:) finding the right spot can be tricky, but you definitely wi
 [SOLUTION]:
 You talk about yourself as a decent person with decent qualities, but likeable is not one of them. Would you find yourself likeable at all? Could you expect people to like you if you imagine scenarios of people not liking you, as you are in effect actively finding reasons to not like yourself? Are you being too hard on yourself by defining likeable as having the approval of people who will genuinely like me, text me, and email me whenever I message them? Is it more assumable to think that keeping to yourself too much is making it hard for people to find things in common with you?
 [SENTIMENT:S]:
-{'Positive': 4.571428571428571, 'Negative': -3.571428571428571}
+{'Positive': 2.5714285714285716, 'Negative': -1.5714285714285716}
 
 
 [PROBLEM]:
@@ -1135,7 +1135,7 @@ You can always throw up after eating right? No more guilt
 [SOLUTION]:
 I'm sorry this has happened to you write. It is really hard to recover when you've trusted and opened up to therapists only to be let down in the end. I am in a similar situation with my psychologist. Took me ages to trust him, opened up to him about stuff I've never talked about to anyone else, cried myself through very difficult therapy, only for him to throw it all back in my face. He knows I have trust issues especially when it comes to men, because of my past, and he proved me right. I really don't know how you can move on from this, I'm hoping to meet up with an advocate after I've finished treatment to try and find a way forward. Not the same when the trust has gone though is it? I hope you can sort something out xxxx
 [SENTIMENT:S]:
-{'Positive': 3.142857142857143, 'Negative': -2.142857142857143}
+{'Positive': 2.857142857142857, 'Negative': -1.8571428571428572}
 
 
 [PROBLEM]:
@@ -1145,7 +1145,7 @@ While this sentiment is nice, it's also important to realize that women are peop
 [SOLUTION]:
 While this sentiment is nice, it's also important to realize that women are people too and not to put them on a pedestal
 [SENTIMENT:S]:
-{'Positive': 2.0, 'Negative': -1.0}
+{'Positive': 0.9090909090909091, 'Negative': 0.09090909090909094}
 
 
 [PROBLEM]:
@@ -1155,7 +1155,7 @@ Given the times you prefer, and liking empty shops, couldn't you go say half an 
 [SOLUTION]:
 First, I am so sorry that you are going through this. I have dealt with many similar feelings that you are going through right now. In the past I’ve struggled to have a sense of self-worth and self-confidence, and though I have gotten better these feelings still persist to an extent today. Second, I want to assure you that things, though will take time, will get better, even if you may not feel so. Trust me, I’ve felt that way a lot too, where I thought things would not get better. But as long as you try to make things better, even if they are small steps, trust me, they will get better. Lastly, I want to assure you that you are worthy of being here, and no one deserves to feel how you are feeling. Please feel free to message me if you want to talk. Also I encourage you to try out CAPS, but I understand if you don’t find it helpful (I personally didn’t find it that helpful for me as I prefer to talk to friends or at least peers about my problems).
 [SENTIMENT:S]:
-{'Positive': 1.7692307692307692, 'Negative': -0.7692307692307692}
+{'Positive': 1.3846153846153846, 'Negative': -0.3846153846153846}
 
 
 [PROBLEM]:
@@ -1165,7 +1165,7 @@ I don't like mornings either, and don't like busy shops, so I go to the supermar
 [SOLUTION]:
 the fact that the other person reached out to you is a good sign!! sometimes u just gotta remind them casually like Hey u wanna grab dinner this wk? etc. also perhaps theyre busy with midterms but little gestures like that i definitely appreciate :)
 [SENTIMENT:S]:
-{'Positive': 1.7142857142857142, 'Negative': -0.7142857142857142}
+{'Positive': 0.6428571428571429, 'Negative': 0.3571428571428571}
 
 
 [PROBLEM]:
@@ -1175,7 +1175,7 @@ That sounds pretty tough, hang in their. It also sounds like you're maybe only e
 [SOLUTION]:
 That sounds pretty tough, hang in their. It also sounds like you're maybe only ever seeing, or being around people, when the situation shows up the more negative sides of people. Shopping can be really infuriating, especially if people are ignorant and rude. Is there a way for you to get out and be around people in some way that doesn't directly involve you interacting or anything else that you don't want? Visiting certain places or going for walks or something maybe? It may help to slowly build a more positive picture of people and show you that they aren't always complete arseholes. I struggle with 'irritability' with people quite a lot, and I'm easily angered. One of the things that I've found useful is to use this website Self Help for Anger and use the resources available there. Two of the things that I find particularly helpful regarding anger and how I deal with it is to ask; How important will this be in 6 months time? - So for example, if someone does something stupid on the road, like pull out on me or something, and I get irate at that person, asking myself if it's something that would still be important to me in 6 months time really puts it into perspective that it's a minor thing and to forget it. And the other is asking yourself if something is 'fact or opinion'? Particularly useful if you have strong opinions about things, or thoughts about things that have happened. I'd get rid of the scewdriver. If you 'lose it' and end up pulling the screwdriver on someone, or maybe even using it, you could end up spending years in a prison cell, which I imagine would be infinitely worse than what you have now. Finally, are you on any medication at the minute, and are you in contact with anyone from the mental health team at all? Stay safe man.
 [SENTIMENT:S]:
-{'Positive': 0.32727272727272727, 'Negative': 0.6727272727272727}
+{'Positive': 0.2, 'Negative': 0.8}
 
 
 [PROBLEM]:
@@ -1185,7 +1185,7 @@ I would say that it is entirely normal to have 'crushes' it's just just importan
 [SOLUTION]:
 I would say that it is entirely normal to have 'crushes' it's just just important to be aware that we cannot truly have any more than that as someone looking from a distance. Love can only really come from physical interaction and really knowing a person. Sure, we could obsess over them, but that isn't real because we don't actually know the person; they could be vile in reality, and if we base how we feel about them from the projections they make on social media or in the news, then we only get a filtered version of them, one that is unlikely to reveal any of the bad points about them. So, this would probably fall under 'idealisation' in that you see an ideal person, partly because that is all you're allowed to see and partly because that has become what you want to see. I am guessing that you follow them on social media and the like, so a start would be to break the habit of checking in on them, replacing this behaviour with something else more beneficial. Remind yourself that you don't know that person and that it would be far healthier to focus on 'real world' women and working towards meeting and getting to know someone in that way
 [SENTIMENT:S]:
-{'Positive': 0.3917525773195876, 'Negative': 0.6082474226804124}
+{'Positive': 0.21649484536082475, 'Negative': 0.7835051546391752}
 
 
 [PROBLEM]:
@@ -1195,7 +1195,7 @@ I could be wrong but it sounds similar to OCD. I have something similar where I 
 [SOLUTION]:
 I could be wrong but it sounds similar to OCD. I have something similar where I constantly say a sentance over and over in my head to the point where I feel I can't breath and I get really upset. It sounds like you are really suffering and I hope you can find a way to accept the songs so that they just play in the background.. not easy thought. My heart goes out to you x
 [SENTIMENT:S]:
-{'Positive': 0.5588235294117647, 'Negative': 0.4411764705882353}
+{'Positive': 0.2647058823529412, 'Negative': 0.7352941176470589}
 
 
 [PROBLEM]:
@@ -1205,7 +1205,7 @@ im so sorry you were let down you can trust this forum though i promise please t
 [SOLUTION]:
 im so sorry you were let down you can trust this forum though i promise please talk about your feelings here it is not good to bottle them up lots of love Lu xxxx
 [SENTIMENT:S]:
-{'Positive': 2.6315789473684212, 'Negative': -1.6315789473684212}
+{'Positive': 1.263157894736842, 'Negative': -0.26315789473684204}
 
 
 [PROBLEM]:
@@ -1215,7 +1215,7 @@ I'm sorry this has happened to you write. It is really hard to recover when you'
 [SOLUTION]:
 I'm sorry this has happened to you write. It is really hard to recover when you've trusted and opened up to therapists only to be let down in the end. I am in a similar situation with my psychologist. Took me ages to trust him, opened up to him about stuff I've never talked about to anyone else, cried myself through very difficult therapy, only for him to throw it all back in my face. He knows I have trust issues especially when it comes to men, because of my past, and he proved me right. I really don't know how you can move on from this, I'm hoping to meet up with an advocate after I've finished treatment to try and find a way forward. Not the same when the trust has gone though is it? I hope you can sort something out xxxx
 [SENTIMENT:S]:
-{'Positive': 0.7887323943661971, 'Negative': 0.21126760563380287}
+{'Positive': 0.4225352112676056, 'Negative': 0.5774647887323944}
 
 
 [PROBLEM]:
@@ -1225,7 +1225,7 @@ Hi. As someone with a lot of anxiety, I completely get how crappy it feels to st
 [SOLUTION]:
 Hi. As someone with a lot of anxiety, I completely get how crappy it feels to start a new job. Trying to learn the job duties along with gauging the personalities of all the new people you are working with can be overwhelming. Its possible that your participation was listed as optional, because they didn't want to make you feel pressured to attend a birthday lunch for/with people you don't know very well. At least that's what it sounds like to me. My company did a secret santa type thing in my department and gave me the option not to participate, due to only having been in this job for about four months or so (and I normally work night shifts so I don't have a ton of interaction with my coworkers). That's just my two cents on the situation, I hope it helps!
 [SENTIMENT:S]:
-{'Positive': 0.19736842105263158, 'Negative': 0.8026315789473684}
+{'Positive': 0.06578947368421052, 'Negative': 0.9342105263157895}
 
 
 [PROBLEM]:
@@ -1235,7 +1235,7 @@ You're very brave to decide to share your issues - it's really hard to open up -
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 0.17194570135746606, 'Negative': 0.8280542986425339}
+{'Positive': 0.12669683257918551, 'Negative': 0.8733031674208145}
 
 
 [PROBLEM]:
@@ -1245,7 +1245,7 @@ You could potentially have traits of Borderline Personality Disorder, it was one
 [SOLUTION]:
 You could potentially have traits of Borderline Personality Disorder, it was one of the things I thought of when reading that, but you also shouldn't rule out things like Asperger Syndrome as I know one of the traits of that can be wanting to be alone a lot. Speak to your GP and lay your soul bare about what your problems are, it's really the only way to get going on the road to recovery, whatever the diagnosis may or may not be.  Your story about the fires was incredible. We've not had such a fire here. But we did have a Hurricane recently. We did not get a direct hit. We stayed home with supplies for a week. I actually like the winds thrashing the vegetation about and we could hear and see this out our back glass door. We only boarded up the bedroom windows for a Safe Room. The electricity went off. We cracked open some windows to keep the roof from popping off. After the storm it was a steamy 90 degrees with 98 percent humidity. It was literally so hot you couldn't stop sweating and I became hysterical in the heat. All the neighbors came outside and were milling about, talking, sharing stories about how their generators did or did not start up. A neighbor told me that the nearby motel had it's electric and she said she was going to go get a room there. An air conditioned room. She convinced me to go there too. So I stayed at the motel for one night and then we were extremely lucky that our neighborhood's electric came back on the next day. Being that sick in the heat can kill you. 14 elderly people died in a Residence for the Elderly from the heat in another area about twenty minutes away. That was a terrible situation of neglect because the staff kept those old folks in the unairconditioned building and they knew darn well it was making them all sick. Right across the street was a Hospital where they all should have been taken. Some nurses from the hospital went over to the old folks place to check on them and found many elderly unresponsive. Evacuation of the building followed. Right after the storm the government said they'd make a new law requiring every elderly facility to have generators to run the AC. But after a few weeks, the story died down and the new law was forgotten.
 [SENTIMENT:S]:
-{'Positive': 0.21495327102803738, 'Negative': 0.7850467289719626}
+{'Positive': 0.13551401869158877, 'Negative': 0.8644859813084113}
 
 
 [PROBLEM]:
@@ -1255,7 +1255,7 @@ I am so sorry for what you and your family have experienced. I haven't had that 
 [SOLUTION]:
 I am so sorry for what you and your family have experienced. I haven't had that type of experience, but I have suffered from PTSD. The more you talk about it, the better. But I would encourage you to speak with a counselor, someone who specializes in trauma. The rest of your life doesn't have to be lived in fear. I believe your story is miraculous. It sounds like God heard you. I believe if you ask Him to help you overcome the trauma, He'll hear you again and answer. I was led to speak to a counselor, and they helped tremendously. Then I continued to attend seminars to learn more about overcoming my past. It's a process, but God is faithful. I've experienced so much healing, and I don't doubt you will as well. Let us know how it goes. We're here with you.
 [SENTIMENT:S]:
-{'Positive': 0.25, 'Negative': 0.75}
+{'Positive': 0.2361111111111111, 'Negative': 0.7638888888888888}
 
 
 [PROBLEM]:
@@ -1265,7 +1265,7 @@ This is so horrible. Haven't you ever thought, Louise, that maybe you don't have
 [SOLUTION]:
 This is so horrible. Haven't you ever thought, Louise, that maybe you don't have "factitious disorder?" If I recall correctly you said the diagnosis was made by a doctor who soon after lost his job. He was yelling at you, which completely discredits any so-called health care worker. I don't know you of course. But you do NOT strike me as someone who's just making up stories to get attention. You have had huge upheaval and tragedy in your life, and are struggling. You were raped - you remember it and know who did it - and you did the right thing to report him to the police. You bear no responsibility whatsoever for his actions. It's not your fault you were raped, and it's not your fault he killed himself. I agree that everyone, even those who are "attention seekers," should be treated with compassion and respect. But I urge you not to paste that label on yourself because of one ignorant doctor. You are not evil.
 [SENTIMENT:S]:
-{'Positive': 0.43617021276595747, 'Negative': 0.5638297872340425}
+{'Positive': 0.22340425531914893, 'Negative': 0.7765957446808511}
 
 
 [PROBLEM]:
@@ -1275,7 +1275,7 @@ I feel okay. Like John Nash, I accept that my hallucinations are not real. They 
 [SOLUTION]:
 I feel okay. Like John Nash, I accept that my hallucinations are not real. They are not real people. So I can let them disappear in the distance. Do you think you could be projecting your feeings about breaking up with the child's mom onto the boy ?? Transferring your feelings onto a 7 month old baby is truly bad for the child. This is your son and he looks up to you. He is the wellspring of love. Let that love infect your being.  Adjusting to the idea that you are a parent for life, that is a big adjustment. No wonder you can't eat or sleep, this was a surprise for you, not a planned event.
 [SENTIMENT:S]:
-{'Positive': 0.3508771929824561, 'Negative': 0.6491228070175439}
+{'Positive': 0.21052631578947367, 'Negative': 0.7894736842105263}
 
 
 [PROBLEM]:
@@ -1285,7 +1285,7 @@ You have been in this position a long time and it will feel shocking to you to b
 [SOLUTION]:
 You have been in this position a long time and it will feel shocking to you to be assertive with her. She is being very selfish. Your school work is work enough. When she is verbally abusive to you, you are old enough now to stop pleasing her and tell her instead that you do not deserve to be treated that way. And walk out of the house after you tell her that you do not deserve to be treated that way. Do not do the chores if she verbally abuses you. If you treat me that way, I won't help you at all. You can stand up to her. You are not her little girl anymore. Doing this will feel foreign to you. But she is being very bossy and unkind to a perfect daughter. I tried to get my mother's understanding and approval for years before I realized I wasn't going to get it.
 [SENTIMENT:S]:
-{'Positive': 0.5774647887323944, 'Negative': 0.4225352112676056}
+{'Positive': 0.2112676056338028, 'Negative': 0.7887323943661972}
 
 
 [PROBLEM]:
@@ -1295,7 +1295,7 @@ You are a young adult and need your own space, especially with going to med scho
 [SOLUTION]:
 You are a young adult and need your own space, especially with going to med school. You might need to sit down with mom and have a heart to heart talk with her. Explain how difficult med school is and the amount of work required to be successful. She might also need to come to realize that all work and no play is a formula for failure. Remember it is her house and she is doubling as a landlord. It is a difficult situation for both of you.Perhaps you can agree on some things you can do around the house that would be acceptable to both of you. Be firm , loving and prepared when you approach her. Be sure to choose a good time for both of you where you are both relaxed and open to the conversation.
 [SENTIMENT:S]:
-{'Positive': 0.43103448275862066, 'Negative': 0.5689655172413793}
+{'Positive': 0.22413793103448276, 'Negative': 0.7758620689655172}
 
 
 [PROBLEM]:
@@ -1305,7 +1305,7 @@ I am so sorry. It must have been devastating for you. So heart breaking. Thinkin
 [SOLUTION]:
 You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
 [SENTIMENT:S]:
-{'Positive': 1.5, 'Negative': -0.5}
+{'Positive': 0.65, 'Negative': 0.35}
 
 
 [PROBLEM]:
@@ -1315,7 +1315,7 @@ My brother killed himself a few years ago. I don't keep track of the date. But l
 [SOLUTION]:
 My brother killed himself a few years ago. I don't keep track of the date. But losing a child is a whole nother level of heartbreak. I know I was devastated when my GF lost our baby at 3 months. But having actually having had known him and loving him for so many years then losing him cannot be easy. Just try and remember the good times you shared.
 [SENTIMENT:S]:
-{'Positive': 0.5, 'Negative': 0.5}
+{'Positive': 0.3, 'Negative': 0.7}
 
 
 [PROBLEM]:
@@ -1325,7 +1325,7 @@ Hi, you seem to enjoy things like computers and board games. Do you see this as 
 [SOLUTION]:
 Hi, you seem to enjoy things like computers and board games. Do you see this as a good thing or a bad thing? I think it is good to spend your free time doing what you enjoy. Even if other people think it's weird. Maybe you can meet people while you play board games at cafes and other public places. If they enjoy it you can talk to them about it. I think people need relationships in order to feel good. Good luck, don't give up.
 [SENTIMENT:S]:
-{'Positive': 0.68, 'Negative': 0.31999999999999995}
+{'Positive': 0.42, 'Negative': 0.5800000000000001}
 
 
 [PROBLEM]:
@@ -1335,7 +1335,7 @@ I'm sorry you've been struggling, I would advise that you go to your GP as soon 
 [SOLUTION]:
 I'm sorry you've been struggling, I would advise that you go to your GP as soon as possible. If the racing thoughts get too much go to A/E or contact out of hours or 111 if your in the UK. Many mental health conditions have racing thoughts. Are you sleeping? I agree the headache could be from tension/stress. Have you tried any paracetamol did it help? Hope you feel better very soon. Take care
 [SENTIMENT:S]:
-{'Positive': 0.4, 'Negative': 0.6}
+{'Positive': 0.15, 'Negative': 0.85}
 
 
 [PROBLEM]:
@@ -1345,7 +1345,7 @@ When I had severe headaches, I fixed it by an improved diet, eating less sugar, 
 [SOLUTION]:
 hey, you do you if you're okay with being alone, but remember that not everyone can do that. it would be nice if I didn't get lonely, but I get lonely to the point of severe, impactful depression. that's not something I can just easily be okay with. so think before you say something like that so offhandedly
 [SENTIMENT:S]:
-{'Positive': 0.55, 'Negative': 0.44999999999999996}
+{'Positive': 0.15, 'Negative': 0.85}
 
 
 [PROBLEM]:
@@ -1355,7 +1355,7 @@ That's beside the point, I need to be here for a number of reasons. I'm just cur
 [SOLUTION]:
 You talk about yourself as a decent person with decent qualities, but likeable is not one of them. Would you find yourself likeable at all? Could you expect people to like you if you imagine scenarios of people not liking you, as you are in effect actively finding reasons to not like yourself? Are you being too hard on yourself by defining likeable as having the approval of people who will genuinely like me, text me, and email me whenever I message them? Is it more assumable to think that keeping to yourself too much is making it hard for people to find things in common with you?
 [SENTIMENT:S]:
-{'Positive': 1.1, 'Negative': -0.10000000000000009}
+{'Positive': 0.4, 'Negative': 0.6}
 
 
 [PROBLEM]:
@@ -1805,7 +1805,7 @@ this is my problem please help me
 [SOLUTION]:
 So sorry to hear that life had been tough. Let me see if I have your story straight. You feel worthless because of your personality, ie a core part of you that you feel you cannot change. You think that people would not like or want to be friends with you. You probably stick to yourself and not actively try to make friends or you do and you fail. This makes you feel worthless again and continues the loop. Your feels, thoughts, and behavior is conspiring against you. This is a classic example a downward spiral. Please visit CAPS at your next convenience. Once you see your therapist, tell then that you are spiraling. They will help you. Your problem is not small. It is growing but it can be nipped in the bud. You sound motivated to change and really self aware, so I know you can do this!
 [SENTIMENT:S]:
-{'Positive': 3.3333333333333335, 'Negative': -2.3333333333333335}
+{'Positive': 2.3333333333333335, 'Negative': -1.3333333333333335}
 
 
 [PROBLEM]:
@@ -1815,7 +1815,7 @@ i feel so depressed i dont know what to do. How do you cope with depression
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 1.0, 'Negative': 0.0}
+{'Positive': 0.6363636363636364, 'Negative': 0.36363636363636365}
 
 
 [PROBLEM]:
@@ -1825,7 +1825,7 @@ i feel so depressed i dont know what to do. How do you cope with depression
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 1.0, 'Negative': 0.0}
+{'Positive': 0.6363636363636364, 'Negative': 0.36363636363636365}
 
 
 [PROBLEM]:
@@ -1835,7 +1835,7 @@ i am very depressed. how do you cope with depression. please help me. i feel so 
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 1.3636363636363635, 'Negative': -0.36363636363636354}
+{'Positive': 1.2727272727272727, 'Negative': -0.2727272727272727}
 
 
 [PROBLEM]:
@@ -1845,6 +1845,16 @@ i have depression. My depression is very bad. What do i do? i feel so sad all th
 [SOLUTION]:
 It is very brave of you to share the bad things happened to you and expressed your emotion entirely. Childhood does have a big influence on your mental health. You are not alone, many people have gone through Cal with depression, like me as a psych major. i was lucky to have friends who know about depression or went through similar problems together. not everyone could understand symptoms of depression and say things to make u feel better, but they do want to help you (except your Dad who might make it worse) try to talk to anyone from psych major, im sure they are, or even i am, happy to talk with you. Make good use of Tang Center, and campus counselling services like Student to Student Peer Counselling, they are on phone or in person. :) Go little Cal Bear, you will be great!
 [SENTIMENT:S]:
-{'Positive': 1.1333333333333333, 'Negative': -0.1333333333333333}
+{'Positive': 0.6, 'Negative': 0.4}
+
+
+[PROBLEM]:
+STUFF
+[SENTIMENT:P]:
+{'Positive': 0.0, 'Negative': 0.0}
+[SOLUTION]:
+What has happened, has happened. I can't change what I was given and what I've seen. I can't change OR forget my past. (yes, someone has told me to 'just forget about it.'' (what an ignorant idiot they are)). But, I'll tell you one thing: Things don't get better, we get better. This is not to imply people with depression and mental illness are flawed.We aren't. But, as time goes on, we get more resistant to the urges to die, to the thoughts, voices, moods etc. We get better as in we fight back with greater force and resistance. One day, I hope I will be so resistant that I won't need to rely on friends to help me with these battles. As well, ignore the ignorant. They can't even fathom it. Whenever I mention traumas, I hear this special breed of people they say that I'm being dramatic or trying to one them up with my experiences. They can't understand and get upset when you tell them they can't. Ignore them, they aren't worth your company or your time. Focus on the people who believe you. Those people will be your friends, and they will help you. Last notes: -Taking medications is a good thing if it helps you! Don't let anyone tell you otherwise. As well, don't be afraid to start antidepressants, you can always stop. -If you have a strong urge to end it, wait a little bit. Usually, these feelings fade in a bit. As well, talk to a friend who you can trust. -It doesn't hurt to seek help from professionals. Finally: If you are extremely depressed/suicidal and really need to talk and don't feel comfortable doing any of the above things. You can make a fake account and say that you need some help in the comments. I'm down to talk or anything and will probably reach out to you. A fine day to you all. As well, people who can't understand this kind of stuff: It is not a joke. Do not make jokes and be respectful!
+[SENTIMENT:S]:
+{'Positive': 22.0, 'Negative': -21.0}
 
 
