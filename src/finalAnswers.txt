@@ -93,9 +93,9 @@ Advice desperately needed: I don't know if anyone will read this. I don't know i
 [SENTIMENT:P]:
 {'Positive': 0.04101326899879373, 'Negative': 0.12062726176115803}
 [SOLUTION]:
-You're very brave to decide to share your issues - it's really hard to open up - I was the same.. However the forum is really good to get to know other people who can identify with how you feel and offer support - and it's SO much easier to do it anonymously.. You sound a bit lost in your life.... You seem to struggle socially and also you don't seem to have a solid sense of identity.. Not feeling like you fit in anywhere.. I also feel a lot like you.. I find social situations an absolute nightmare firstly.. I never have made the same connections along the way of life like my siblings did with other people...you know - at school, university, work.... I was always on my own.... Always wearing the mask and changing personality depending on the situation I was in... I'm now 42, married with 3 children... so at 26 and realizing you may have issues makes you streets ahead of me I never realized there was a 'name' for the way I was... In fact it was only when I went to my doctor almost 3yrs ago that I truly realised that the way I was wasn't 'normal' I am since diagnosed with Borderline Personality Disorder along with Depression.. I'm in therapy since my first doc apt and also see a Psychiatrist... Have you ever spoken to your GP about how you feel? Generally this is the first real step towards getting the help that you need... Maybe from there you could see a therapist and talk about how you feel and what's going on for you... It's amazing to have a 3rd party who doesn't know anyone in your family - totally unjudgemental.. It has taken me a long long time to build up trust - as trusting is not my strong area...but now I find her invaluable. You definitely sound as if you could do with help... I won't hazzard a guess as to what type of 'diagnosis' you might get or not because you really need to see a medical person to know for sure... So do think about opening up to your GP and going from there... You're only 26 so it would be great if you could get help now while you're still so young Do keep talking here too. Mind yourself and hope I have been even a little bit helpful in my reply
+This is so horrible. Haven't you ever thought, Louise, that maybe you don't have "factitious disorder?" If I recall correctly you said the diagnosis was made by a doctor who soon after lost his job. He was yelling at you, which completely discredits any so-called health care worker. I don't know you of course. But you do NOT strike me as someone who's just making up stories to get attention. You have had huge upheaval and tragedy in your life, and are struggling. You were raped - you remember it and know who did it - and you did the right thing to report him to the police. You bear no responsibility whatsoever for his actions. It's not your fault you were raped, and it's not your fault he killed himself. I agree that everyone, even those who are "attention seekers," should be treated with compassion and respect. But I urge you not to paste that label on yourself because of one ignorant doctor. You are not evil.
 [SENTIMENT:S]:
-{'Positive': 0.05066344993968637, 'Negative': 0.9493365500603136}
+{'Positive': 0.039806996381182146, 'Negative': 0.9601930036188179}
 
 
 [PROBLEM]:
@@ -193,7 +193,7 @@ My uncommon, irrational fear: I have three fears that I group together into a �
 [SENTIMENT:P]:
 {'Positive': 0.009478672985781991, 'Negative': 0.0947867298578199}
 [SOLUTION]:
-I’d also look into why exactly this is causing you stress... being asked to sit with workmates, teambuilding lunches, it doesn’t sound like it should be causing stress. Similarly it’s kind of normal to be open to a certain extent when with others. So if this is causing you stress, perhaps there is some other underlying cause? What Poopy Doll said about the forces is also probably right, that the kind of attitudes towards “building character” there are even more old school then at other institutions. It’s worth thinking about what you are letting yourself in for...
+My view on this is that everyone goes through life doing the best that they can, given the background that circumstances and their parents gave them. Perhaps that psychiatrist was abused as a child, you don’t know. But I feel that people inherently do what they can to make a good life for themselves and their loved ones. So when we come across people who hurt us, it’s often that they are carrying out patterns that they have inherited from their parents, teachers and so on. The whole process of rectifying these things, of introducing greater compassion and removing old inherited harm, is something that psychologists have been working at for ages. The process of working through our own trauma is something that takes time. Finding ways to love ourselves, forgive ourselves for things we did which in hindsight were maybe not right, accept ourselves in the present moment and in the past, these things are all difficult but very worthwhile. It’s good to spend time and effort on introspection, on why things are the way they are, and finding some love for that boy with Tourette’s.
 [SENTIMENT:S]:
 {'Positive': 0.09004739336492891, 'Negative': 0.909952606635071}
 
@@ -295,7 +295,7 @@ Anxiety? Not sure what to do! Helloo everyone 😊 just joined and this is my fi
 [SOLUTION]:
 I’m so sorry for what you’re experiencing right now. I want to encourage you to seek help and support from your family and friends or consider to join a support group where you can meet face to face. It will help you not to feel isolated and alone. Consult with your doctor regularly, if you think your medications are not working, you can ask for a new prescription. Take good care of yourself, eat healthy diet, have enough sleep and regular exercise. Please don’t try to harm yourself. Don’t give up, you will get better. I will be praying for you.
 [SENTIMENT:S]:
-{'Positive': 0.09340659340659341, 'Negative': 0.9065934065934066}
+{'Positive': 0.0989010989010989, 'Negative': 0.9010989010989011}
 
 
 [PROBLEM]:
@@ -323,9 +323,9 @@ To start this, I'll be blunt and say I'm not even sure that I'm posting in the r
 [SENTIMENT:P]:
 {'Positive': 0.05801526717557252, 'Negative': 0.12061068702290076}
 [SOLUTION]:
-I usually just make sporadic eye contact - look, hold for a few seconds, look away - there’s no point in getting into staring contests. Sometimes for emphasis I’ll hold eye contact a bit longer, but I find it uncomfortable as well. I think most people do, and so it’s perfectly fine not to make eye contact in most cases. I do make eye contact with girls I find attractive. Can’t help it, I just like looking into their eyes.
+I’d also look into why exactly this is causing you stress... being asked to sit with workmates, teambuilding lunches, it doesn’t sound like it should be causing stress. Similarly it’s kind of normal to be open to a certain extent when with others. So if this is causing you stress, perhaps there is some other underlying cause? What Poopy Doll said about the forces is also probably right, that the kind of attitudes towards “building character” there are even more old school then at other institutions. It’s worth thinking about what you are letting yourself in for...
 [SENTIMENT:S]:
-{'Positive': 0.02748091603053435, 'Negative': 0.9725190839694656}
+{'Positive': 0.024427480916030534, 'Negative': 0.9755725190839695}
 
 
 [PROBLEM]:
@@ -519,16 +519,6 @@ I have a relative who gets very involved with fictional characters' emotions in 
 
 
 [PROBLEM]:
-It sounds like your empathy is mostly around positive things, and not so strong around family. That doesn’t mean it’s not there. I’d suggest to your friend that maybe he needs to be more compassionate himself rather than making judgments. One exercise I’ve found really helpful around empathy and compassion is considering how other people suffer. Everyone suffers and has difficulties in their life. When people ask us, “how are you”, we generally just tell some niceties, we don’t really go into how we actually feel, how in fact we too suffer. But if you can imagine someone else’s suffering, it helps you to feel compassion for them, and that is empathy.
-[SENTIMENT:P]:
-{'Positive': 0.12, 'Negative': 0.06666666666666667}
-[SOLUTION]:
-I have a relative who gets very involved with fictional characters' emotions in books, films, will go into a lot of detail re what has happened to them and why and how awful it is if they are struggling in anyway. But they struggle to recognise the feelings and situations of people around them in real life or show compassion. I don't know if being able to empathise with fictional characters/a fictional world is somehow "safer"? I think this is still a form of empathy but at a distance some how. Don't know, just my thoughts, experience. Am flooded with far too much empathy, it doesn't help anyone really and hurts a lot
-[SENTIMENT:S]:
-{'Positive': 0.25333333333333335, 'Negative': 0.7466666666666666}
-
-
-[PROBLEM]:
 Eye contact-such a tricky one: I don't like to make eye contact but make myself do so because it's expected when you are interacting with people. I am never sure how long is too long though, and whether I'm over compensating or not. After all there's not making eye contact vs outright staring at someone. Thoughts welcomed.
 [SENTIMENT:P]:
 {'Positive': 0.0, 'Negative': 0.02857142857142857}
@@ -563,48 +553,8 @@ Tourettes & Tardive dyskinesia: I've read another thread about tardive dyskinesi
 [SENTIMENT:P]:
 {'Positive': 0.022151898734177215, 'Negative': 0.13924050632911392}
 [SOLUTION]:
-I had dyskinesia of my tongue and mouth just over a year ago, amd I still do to a much milder extent. It was caused by antipsychotic drugs...in particular the less sedating older ones, although years of AP's in general could not have helped. I thimk for people in there mid twenties (my age), obvious TD is still relatively umcommon. Only yesterday I was told I will still have to avoid non sedating and older antipsychotics. Whatever the theoretical debates on this about the risks of different antipsychotics, it seems the general consensus and reality (in my view amd experience) is that certain antipsychotics place us at higher risk than others, although that is not to say they are less safe overall. I don't think SSRI's would give you TD, as that's not the way they work. I heard that lithium can, in extremely rare circumstances, cause TD - although I don't know how true this is. About the relationship betweem TD and tourettes - it seems unlikely, as older dopamime blocking drugs (that very heavily target what they call the nigrostriatal pathway - drugs doing this are a cause of TD and movement problems) are sometimes used to TREAT tourettes!
+Here a couple of things I'd say to offer some support (although I am by no means a licensed professional): 1. Structure - You noted to us that whenever you're alone, your anxiety and depression get the best of you. I'm the same way (minus the depression), because my OCD makes me obsess a lot over little things. In general, I would recommend structure. Get out more often, find things to fill your time with—that are healthy—and do your best to lead a productive life. 2. Finding a Job - Finding a job sounds like it will be essential to your recovery path. What I would recommend is asking your clinical supports (e.g counselor) if there are any rehab programs that help mentally ill people find employment. In my state of Massachusetts, we have an organization called MRC that does just that. My hope is that those options will be made available to you. However, I would also say to take it easy. While money is a present problem for you, putting too much pressure on yourself over finding a job while you're already on a bumpy road will exacerbate your symptoms. You want to ensure you're stable going into a job. 3. Coping Skills - Coping skills are also imperative to your overall mental health. Everyone needs them. When you have moments of self-doubt, ask yourself some questions: "What makes this not my fault?" "What can I do to help myself?" Something else that will help is giving yourself self-soothing. Coloring, writing, drawing, listening to music, meditation, and exercise are all healthy examples of coping mechanisms that are recommended by clinical professionals. They keep us feeling strong and help us keep our minds in the right place. 4. Give Yourself a Break - You're not to blame for everything. It really is unfortunate that you've lost so many people, and I'm very sorry that all of these difficulties are piling up on your shoulders, but there is a lot of hope still in store for you. You have to be easy on yourself, and recognize that we're only human. Pace your recovery and make sure your counselor is aware of how you feel. If you need any further encouragement or support, let me know!
 [SENTIMENT:S]:
 {'Positive': 0.09177215189873418, 'Negative': 0.9082278481012658}
-
-
-[PROBLEM]:
->>>>>>> 7b9300d84de6c3f08dabf9ab03553ae7c484b259
-[SENTIMENT:P]:
-{'Positive': 0.0, 'Negative': 0.0}
-[SOLUTION]:
-We are sorry. Kindly seek help somewhere else!
-[SENTIMENT:S]:
-{'Positive': 0.0, 'Negative': 0.0}
-
-
-[PROBLEM]:
-HELLO
-[SENTIMENT:P]:
-{'Positive': 0.0, 'Negative': 0.0}
-[SOLUTION]:
-We are sorry. Kindly seek help somewhere else!
-[SENTIMENT:S]:
-{'Positive': 0.0, 'Negative': 0.0}
-
-
-[PROBLEM]:
-asdadasdasd
-[SENTIMENT:P]:
-{'Positive': 0.0, 'Negative': 0.0}
-[SOLUTION]:
-We are sorry. Kindly seek help somewhere else!
-[SENTIMENT:S]:
-{'Positive': 0.0, 'Negative': 0.0}
-
-
-[PROBLEM]:
-asasdsadasdas
-[SENTIMENT:P]:
-{'Positive': 0.0, 'Negative': 0.0}
-[SOLUTION]:
-We are sorry. Kindly seek help somewhere else!
-[SENTIMENT:S]:
-{'Positive': 0.0, 'Negative': 0.0}
 
 

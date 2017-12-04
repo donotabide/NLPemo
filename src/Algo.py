@@ -286,7 +286,7 @@ while True:
         #End of query for loop for score
         outputCheck.write(str(stringOutput))
 
-        #WriteOut the Top 3 solutions answerCheckFile.txt
+        #WriteOut the Top 5 solutions answerCheckFile.txt
         outputStringForAnswerCheck = ''
         for solSet in finalSolutions:
             issuetxt = ''
