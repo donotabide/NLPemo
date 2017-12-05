@@ -7,6 +7,9 @@ import math
 
 import codecs
 
+from nltk.stem.snowball import SnowballStemmer
+ps = SnowballStemmer("english")
+
 qry1 = codecs.open('entries.txt', 'a') #Problem file
 abst1 = codecs.open('response.txt') #Soltions file
 
@@ -80,7 +83,7 @@ while True:
                 
                 #Extract all the tokens from tagged
                 for item in tagged:
-                    tokens.append(item[0].lower())
+                    tokens.append(ps.stem(item[0].lower()))
                 #Update the QRY list
                 listOfQuery.append(tokens)
                 tokens = []
@@ -144,7 +147,7 @@ while True:
                 
                 #Extract all the tokens from tagged
                 for item in tagged:
-                    abstTokens.append(item[0].lower())
+                    abstTokens.append(ps.stem(item[0].lower()))
                 #Update the problems list
                 listOfAbs.append(abstTokens)
                 abstTokens = []
@@ -305,11 +308,11 @@ while True:
         positiveWords = []
         for line in positiveFile.read().split('\n'):
             line = line.decode('utf-8').strip()
-            positiveWords.append(line)
+            positiveWords.append(ps.stem(line))
         negitiveWords = []
         for line in negitiveFile.read().split('\n'):
             line = line.decode('utf-8').strip()
-            negitiveWords.append(line)
+            negitiveWords.append(ps.stem(line))
         for solSet in finalSolutionsWithIndex:
             #Each problem
             #print 'FOR'
@@ -353,8 +356,8 @@ while True:
                                 posCount += 1.0
                             elif word in negitiveWords:
                                 negCount += 1.0
-                        if posCount != 0.0:
-                            solWeight = posCount/noOfWordsInIssue #divide by itself or the issue count?
+                        if posCount != 0.0 and issueNegCount!= 0.0:
+                            solWeight = posCount/issueNegCount #divide by itself or the issue count?
                             scoreArray.append(solWeight)
                             solWeightHash['Positive'] = solWeight
                             solWeightHash['Negative'] = 1.0 - solWeight

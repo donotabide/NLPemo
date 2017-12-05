@@ -7,6 +7,9 @@ import math
 
 import codecs
 
+from nltk.stem.snowball import SnowballStemmer
+ps = SnowballStemmer("english")
+
 answerCheck = codecs.open('answerCheck.txt') #Answer check file from ALgo
 answers = codecs.open('answers.txt') #Answers file
 answersDebug = open('answersDebug.txt','w') #output file
