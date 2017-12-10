@@ -17,7 +17,7 @@ abst1 = codecs.open('response.txt') #Soltions file
 positiveFile = codecs.open('positive.txt') #Positive words file
 negitiveFile = codecs.open('negative.txt') #Negative words file
 
-outputCheck = open('outputCheck.txt','w') #output file
+#outputCheck = open('outputCheck.txt','w') #output file
 finalAnswersDoc = open('finalAnswers.txt', 'w') #Finals Answers
 answerCheckDoc = open('answerCheck.txt', 'w') #Answer check
 
@@ -287,7 +287,7 @@ while True:
             queryNumber += 1
             abstractNumber = 0
         #End of query for loop for score
-        outputCheck.write(str(stringOutput))
+        #outputCheck.write(str(stringOutput))
 
         #WriteOut the Top 5 solutions answerCheckFile.txt
         outputStringForAnswerCheck = ''
@@ -442,6 +442,6 @@ qry1.close()
 abst1.close()
 positiveFile.close()
 negitiveFile.close()
-outputCheck.close()
+#outputCheck.close()
 finalAnswersDoc.close()
 answerCheckDoc.close()
